@@ -7,7 +7,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_1 TIL and not counting..._
+_2 TILs and counting..._
 
 ### Android
 
@@ -19,6 +19,8 @@ _1 TIL and not counting..._
 
 ### Angular 5
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
+- [Using and importing custom font](angular5/importing-custom-font.md)
+
 ---
 ### Catz
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

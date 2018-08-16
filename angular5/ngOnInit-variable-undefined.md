@@ -16,6 +16,6 @@ This will not throw errors and wait for the myVariable to be initialized.
 
 ### 2. Using safe navigation operator ( ?. ) to allow variable to be null or undefined
 ```html
-<component-or-tag>{{discipline?.name}}</component-or-tag>
+<component-or-tag>{{myVariable?.property}}</component-or-tag>
 ```
 This is sure way to check if the value is null or undefiend. Atleast, the app doesn't crash. More details here: [the-safe-navigation-operator](https://angular.io/guide/template-syntax#the-safe-navigation-operator----and-null-property-paths)

@@ -16,7 +16,7 @@ For a steady stream of TILs and my other blog posts, checkout my website [arshad
 ### AngularJs
 
 ### Angular 5
-
+- [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
 ---
 ### Catz
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)

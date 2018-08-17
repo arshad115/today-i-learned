@@ -1,3 +1,8 @@
+---
+permalink: /today-i-learned/
+layout: til
+author_profile: true
+---
 # Today I learned
 > Today I Learned
 

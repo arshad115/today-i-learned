@@ -2,6 +2,9 @@
 permalink: /today-i-learned/
 layout: til
 author_profile: true
+output: 
+  md_document:
+    preserve_yaml: false
 ---
 # Today I learned
 > Today I Learned

@@ -44,6 +44,7 @@ _2 TILs and counting..._
 ### Git
 
 ### JavaScript
+- [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)
 
 ### Jekyll
 

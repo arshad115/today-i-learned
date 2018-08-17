@@ -1,8 +1,3 @@
----
-permalink: /today-i-learned/
-layout: til
-author_profile: true
----
 # Today I learned
 > Today I Learned
 
@@ -14,17 +9,43 @@ For a steady stream of TILs and my other blog posts, checkout my website [arshad
 
 _2 TILs and counting..._
 
+---
+
+### Categories
+
+* [Admob](#admob)
+* [Android](#android)
+* [AngularJs](#angularJs)
+* [Angular 5](#angular-5)
+* [Facebook SDk](#facebook-sdk)
+* [Firebase](#firebase)
+* [Git](#git)
+* [Javascript](#javascript)
+* [Internet](#internet)
+* [JavaScript](#javascript)
+* [Jekyll](#jekyll)
+
+---
+
+### Admob
+
 ### Android
-
-### Firebase
-
-### Facebook SDk
 
 ### AngularJs
 
 ### Angular 5
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
 - [Using and importing custom font](angular5/importing-custom-font.md)
+
+### Facebook SDk
+
+### Firebase
+
+### Git
+
+### JavaScript
+
+### Jekyll
 
 ---
 ### Catz

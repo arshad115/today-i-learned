@@ -1,3 +1,8 @@
+---
+permalink: /today-i-learned/readme/
+readme: true
+---
+
 # Today I learned
 > Today I Learned
 
@@ -15,7 +20,7 @@ _4 TILs and counting..._
 
 * [Admob](#admob)
 * [Android](#android)
-* [AngularJs](#angularJs)
+* [AngularJs](#angularjs)
 * [Angular 5](#angular-5)
 * [Facebook SDk](#facebook-sdk)
 * [Firebase](#firebase)

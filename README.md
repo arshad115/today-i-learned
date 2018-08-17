@@ -1,8 +1,3 @@
----
-permalink: /today-i-learned/readme/
-readme: true
----
-
 # Today I learned
 > Today I Learned
 
@@ -71,3 +66,8 @@ The best way you can contribute is to support the idea of keeping track of thing
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
+
+---
+permalink: /today-i-learned/readme/
+readme: true
+---

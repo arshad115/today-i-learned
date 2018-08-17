@@ -7,7 +7,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -42,6 +42,7 @@ _3 TILs and counting..._
 ### Firebase
 
 ### Git
+- [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
 
 ### JavaScript
 - [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)

@@ -1,4 +1,4 @@
-# Add or link another git repository as a submodule
+> Add or link another git repository as a submodule
 
 Many a times you want to use code or resources from multiple repositories, but may be you dont want to link to another folder. You want to keep the projects separately but you want to use them together. You want the code or a library from another repo in the your orignal repo. 
 

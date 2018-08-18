@@ -1,3 +1,5 @@
+# Safe template data binding with ngOnInit
+
 Angular calls ngOnInit for a compoment's initialization. It is a good place to perform initialization logic but can throw errors, 
 because the variables can be undefined which are binded to the views. 
 

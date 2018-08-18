@@ -1,4 +1,4 @@
-> Using and importing custom font in Angular 5
+# Using and importing custom font in Angular 5
 
 To import a custom font in an Angular application, follow these steps:
 

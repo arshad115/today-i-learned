@@ -1,4 +1,4 @@
-> Trim/Remove first or last character in Javascript
+# Trim/Remove first or last character in Javascript
 
 While using C#, if you want to remove the first character or the last character then you can simply use one of the following lines of code:
 

@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
@@ -53,6 +53,7 @@ _4 TILs and counting..._
 - [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)
 
 ### Jekyll
+- [Setting up jekyll/Github Pages environment](jekyll/setting-up-jekyll-environment.md)
 
 ---
 ### Catz

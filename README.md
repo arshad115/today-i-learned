@@ -51,7 +51,7 @@ _6 TILs and counting..._
 - [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
 
 ### Github
-- [Add a license to an exisiting Github Repository](githubadd-a-license-to-existing-repository.md)
+- [Add a license to an exisiting Github Repository](github/add-a-license-to-existing-repository.md)
 
 ### JavaScript
 - [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)

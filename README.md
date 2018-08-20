@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _6 TILs and counting..._
 * [Android](#android)
 * [AngularJs](#angularjs)
 * [Angular 5](#angular-5)
+* [CSS](#css)
 * [Facebook SDk](#facebook-sdk)
 * [Firebase](#firebase)
 * [Git](#git)
@@ -42,6 +43,9 @@ _6 TILs and counting..._
 ### Angular 5
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
 - [Using and importing custom font](angular5/importing-custom-font.md)
+
+### CSS
+- [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)
 
 ### Facebook SDk
 

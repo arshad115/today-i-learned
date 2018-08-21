@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -58,6 +58,7 @@ _9 TILs and counting..._
 
 ### Github
 - [Add a license to an exisiting Github Repository](github/add-a-license-to-existing-repository.md)
+- [Codeblock highlighting programming languages supported by Github](github/codeblock-highlighting-languages-supported-by-github.md)
 
 ### JavaScript
 - [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)

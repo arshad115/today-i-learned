@@ -17,7 +17,7 @@ git submodule add https://github.com/username/RepositoryName
 ### How to update a Submodule
 If you want to check for new work in a submodule, you can go into the directory and run the following command for upstream branch to update the local code.
 ```
-`git submodule foreach git pull origin master`
+git submodule foreach git pull origin master
 ```
 That's pretty much it! 
 

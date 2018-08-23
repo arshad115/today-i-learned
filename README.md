@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -46,6 +46,7 @@ _11 TILs and counting..._
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
 - [Using and importing custom font](angular5/importing-custom-font.md)
 - [Use div contenteditable property with template model binding](angular5/use-div-contenteditable-with-template-model-binding.md)
+- [Add SEO to an Angular App](angular5/add-seo-to-an-angular-app.md)
 
 ### CSS
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)

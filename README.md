@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -39,6 +39,8 @@ _12 TILs and counting..._
 ### Admob
 
 ### Android
+
+[Circular ImageView with Picasso](android/circular-imageview-with-picasso.md)
 
 ### AngularJs
 

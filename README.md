@@ -50,6 +50,7 @@ _14 TILs and counting..._
 - [Use div contenteditable property with template model binding](angular5/use-div-contenteditable-with-template-model-binding.md)
 - [Add SEO to an Angular App](angular5/add-seo-to-an-angular-app.md)
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
+- [Close Dialog from typescript](angular5/close-dialog-from-typescript.md)
 
 ### CSS
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)

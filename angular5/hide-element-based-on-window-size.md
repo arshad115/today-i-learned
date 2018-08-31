@@ -14,6 +14,9 @@ In the [previous til](add-window-resize-event-listener-comopnent.md), I posted t
 })
 public windowWidth: any;
 export class AppComponent{
+   constructor() {
+    this.windowWidth = document.body.clientWidth;
+   }
    onResize(event){
      this.windowWidth = event.target.innerWidth;
    }

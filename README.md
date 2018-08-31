@@ -51,6 +51,7 @@ _17 TILs and counting..._
 - [Add SEO to an Angular App](angular5/add-seo-to-an-angular-app.md)
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
 - [Close Dialog from typescript](angular5/close-dialog-from-typescript.md)
+- [Add a Window Resize event listener for a component](angular5/add-window-resize-event-listener-comopnent.md)
 
 ### CSS
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)

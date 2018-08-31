@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -49,6 +49,7 @@ _18 TILs and counting..._
 - [Add SEO to an Angular App](angular5/add-seo-to-an-angular-app.md)
 - [Close Dialog from typescript](angular5/close-dialog-from-typescript.md)
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
+- [Hide an element based on window size](angular5/hide-element-based-on-window-size.md)
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
 - [Use div contenteditable property with template model binding](angular5/use-div-contenteditable-with-template-model-binding.md)
 - [Using and importing custom font](angular5/importing-custom-font.md)

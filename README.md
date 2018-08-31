@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -62,7 +62,7 @@ _16 TILs and counting..._
 ### Git
 - [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
 - [Ignore local commits and pull repository from the remote branch](git/ignore-local-commits-and-pull.md)
-
+- [Revert the latest commit](git/revert-latest-commit.md)
 
 ### Github
 - [Add a license to an exisiting Github Repository](github/add-a-license-to-existing-repository.md)

@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -47,6 +47,7 @@ _19 TILs and counting..._
 ### Angular 5
 - [Add a Window Resize event listener for a component](angular5/add-window-resize-event-listener-comopnent.md)
 - [Add SEO to an Angular App](angular5/add-seo-to-an-angular-app.md)
+- [Apply two or more pipes](angular5/apply-more-than-one-pipe.md)
 - [Close Dialog from typescript](angular5/close-dialog-from-typescript.md)
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
 - [Hide an element based on window size](angular5/hide-element-based-on-window-size.md)

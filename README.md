@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -52,6 +52,7 @@ _20 TILs and counting..._
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
 - [Hide an element based on window size](angular5/hide-element-based-on-window-size.md)
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
+- [Update Data Model from any component or service using @Input Decorator](angular5/update-data-model-from-any-component-service-using-input-decorator.md)
 - [Use div contenteditable property with template model binding](angular5/use-div-contenteditable-with-template-model-binding.md)
 - [Using and importing custom font](angular5/importing-custom-font.md)
 

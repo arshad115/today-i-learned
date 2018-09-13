@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_21 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -31,6 +31,8 @@ _21 TILs and counting..._
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [Jekyll](#jekyll)
+* [Other](#other)
+* [PHP](#php)
 * [Programming](#programming)
 * [SQL](#sql)
 
@@ -62,6 +64,7 @@ _21 TILs and counting..._
 ### Facebook SDk
 
 ### Firebase
+- [Where to find Firebase cloud messaging server API key in firebase console](firebase/where-to-find-firebase-cloud-messaging-server-api-key-in-firebase-console.md)
 
 ### Git
 - [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
@@ -77,6 +80,13 @@ _21 TILs and counting..._
 
 ### Jekyll
 - [Setting up jekyll/Github Pages environment](jekyll/setting-up-jekyll-environment.md)
+
+### Other
+- [Enable Curl in PHP.ini running on EasyPHP](other/enable-curl-apache-easyphp.md)
+
+### PHP
+- [Allow CORS - Cross origin resource sharing](php/allow-cross-origin-resource-sharing-cors.md)
+- [Fetch MySql column values as array](php/fetch-mysql-column-values-as-comma-separated-values.md)
 
 ### Programming
 - [Programming languages case styles](programming/programming-languages-case-styles.md)

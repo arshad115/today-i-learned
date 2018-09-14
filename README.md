@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -76,6 +76,7 @@ _25 TILs and counting..._
 - [Codeblock highlighting programming languages supported by Github](github/codeblock-highlighting-languages-supported-by-github.md)
 
 ### JavaScript
+- [Get only unique values from a Javascript Array](javascript/get-unique-array.md)
 - [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)
 
 ### Jekyll

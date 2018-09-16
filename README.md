@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_26 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _26 TILs and counting..._
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [Jekyll](#jekyll)
+* [Node.js](#node.js)
 * [Other](#other)
 * [PHP](#php)
 * [Programming](#programming)
@@ -64,11 +65,13 @@ _26 TILs and counting..._
 ### Facebook SDk
 
 ### Firebase
+- [Get Firebase Project Name](firebase/get-firebase-app-name.md)
 - [Where to find Firebase cloud messaging server API key in firebase console](firebase/where-to-find-firebase-cloud-messaging-server-api-key-in-firebase-console.md)
 
 ### Git
 - [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
 - [Ignore local commits and pull repository from the remote branch](git/ignore-local-commits-and-pull.md)
+- [Remove staged files](git/remove-staged-files.md)
 - [Revert the latest commit](git/revert-latest-commit.md)
 
 ### Github
@@ -81,6 +84,9 @@ _26 TILs and counting..._
 
 ### Jekyll
 - [Setting up jekyll/Github Pages environment](jekyll/setting-up-jekyll-environment.md)
+
+### Node.js
+- [Get directory name and filename of the current module in Node.js](nodejs/get-directory-name-and-filename-of-current-module.md)
 
 ### Other
 - [Enable Curl in PHP.ini running on EasyPHP](other/enable-curl-apache-easyphp.md)

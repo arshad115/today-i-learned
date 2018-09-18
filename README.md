@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _30 TILs and counting..._
 * [PHP](#php)
 * [Programming](#programming)
 * [SQL](#sql)
+* [Vue.js](#vuejs)
 
 ---
 
@@ -101,6 +102,9 @@ _30 TILs and counting..._
 ### SQL
 - [Search for a table name in a database](sql/search-for-table-name-in-a-database.md)
 - [Select all columns from the joined table and some from the other](sql/select-all-columns-from-joined-table-and-some-from-other-table.md)
+
+### Vue.js
+- [Optional parameters in Vue Router](vuejs/vue-router-optional-paramters.md)
 
 ---
 ### Catz

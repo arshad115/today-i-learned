@@ -8,7 +8,10 @@ const router = new VueRouter({
   	{ path: '/product/:product/:optional?' }
   ]
 })
+
 ```
+View the code on [JSFiddle](https://jsfiddle.net/arshad115/kqsu27er/) or view the results below.
+
 Here are the Route contexts of such requests, you can see the optional paramter is set to true:
 ### /product/123/asd:
 ```json

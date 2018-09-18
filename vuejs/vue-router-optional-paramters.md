@@ -9,8 +9,8 @@ const router = new VueRouter({
   ]
 })
 ```
-Here is a Route context of such a request, you can see the optional paramter is set to true:
-
+Here are the Route contexts of such requests, you can see the optional paramter is set to true:
+### /product/123/asd:
 ```json
 {
   "meta": {},
@@ -57,3 +57,51 @@ Here is a Route context of such a request, you can see the optional paramter is 
   ]
 }
 ```
+
+### /product/123/:
+```json
+{
+  "meta": {},
+  "path": "/product/123/",
+  "hash": "",
+  "query": {},
+  "params": {
+    "product": "123"
+  },
+  "fullPath": "/product/123/",
+  "matched": [
+    {
+      "path": "/product/:product/:optional?",
+      "regex": {
+        "keys": [
+          {
+            "name": "product",
+            "prefix": "/",
+            "delimiter": "/",
+            "optional": false,
+            "repeat": false,
+            "partial": false,
+            "asterisk": false,
+            "pattern": "[^\\/]+?"
+          },
+          {
+            "name": "optional",
+            "prefix": "/",
+            "delimiter": "/",
+            "optional": true,
+            "repeat": false,
+            "partial": false,
+            "asterisk": false,
+            "pattern": "[^\\/]+?"
+          }
+        ]
+      },
+      "components": {},
+      "instances": {},
+      "meta": {},
+      "props": {}
+    }
+  ]
+}
+```
+

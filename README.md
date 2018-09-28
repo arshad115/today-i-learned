@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
@@ -72,6 +72,7 @@ _32 TILs and counting..._
 ### Git
 - [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
 - [Ignore local commits and pull repository from the remote branch](git/ignore-local-commits-and-pull.md)
+- [Pull changes from the master or other branch](git/pull-changes-from-the-master-or-other-branch.md)
 - [Remove staged files](git/remove-staged-files.md)
 - [Revert the latest commit](git/revert-latest-commit.md)
 

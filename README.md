@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_33 TILs and counting..._
+_34 TILs and counting..._
 
 ---
 
@@ -92,6 +92,7 @@ _33 TILs and counting..._
 
 ### Other
 - [Enable Curl in PHP.ini running on EasyPHP](other/enable-curl-apache-easyphp.md)
+- [Take permissions of a folder using sudo on Linux](other/take-permissions-of-a-folder-sudo.md)
 
 ### PHP
 - [Allow CORS - Cross origin resource sharing](php/allow-cross-origin-resource-sharing-cors.md)

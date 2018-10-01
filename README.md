@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_35 TILs and counting..._
+_36 TILs and counting..._
 
 ---
 
@@ -62,7 +62,8 @@ _35 TILs and counting..._
 - [Using and importing custom font](angular5/importing-custom-font.md)
 
 ### C#
-- [Cast or deserialize a Json object to a class in C#](csharp/cast-json-object-to-class.md)
+- [Cast or deserialize a Json object to a class](csharp/cast-json-object-to-class.md)
+- [Encode/Decode Base64 string](csharp/encode-decode-base64-string.md)
 
 ### CSS
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)

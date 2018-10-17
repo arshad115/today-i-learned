@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_39 TILs and counting..._
+_40 TILs and counting..._
 
 ---
 
@@ -102,6 +102,7 @@ _39 TILs and counting..._
 ### PHP
 - [Allow CORS - Cross origin resource sharing](php/allow-cross-origin-resource-sharing-cors.md)
 - [Compress string or data](php/compress-string-data.md)
+- [Enable gzip compression](php/enable-gzip-compression.md)
 - [Fetch MySql column values as array](php/fetch-mysql-column-values-as-comma-separated-values.md)
 
 ### Programming

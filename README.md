@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_37 TILs and counting..._
+_38 TILs and counting..._
 
 ---
 
@@ -108,6 +108,7 @@ _37 TILs and counting..._
 
 ### SQL
 - [Find all tables with a specific column name](sql/find-all-tables-with-a-specific-column-name.md)
+- [Return results in json](sql/return-results-in-json.md)
 - [Search for a table name in a database](sql/search-for-table-name-in-a-database.md)
 - [Select all columns from the joined table and some from the other](sql/select-all-columns-from-joined-table-and-some-from-other-table.md)
 - [View table schema using SQL](sql/view-table-schema-using-sql.md)

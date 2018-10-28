@@ -12,19 +12,16 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_40 TILs and counting..._
+_54 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [Admob](#admob)
 * [Android](#android)
-* [AngularJs](#angularjs)
 * [Angular 5](#angular-5)
 * [C#](#c)
 * [CSS](#css)
-* [Facebook SDk](#facebook-sdk)
 * [Firebase](#firebase)
 * [Git](#git)
 * [Github](#github)
@@ -36,18 +33,14 @@ _40 TILs and counting..._
 * [Other](#other)
 * [PHP](#php)
 * [Programming](#programming)
+* [Python](#python)
 * [SQL](#sql)
 * [Vue.js](#vuejs)
 
 ---
 
-### Admob
-
 ### Android
-
-[Circular ImageView with Picasso](android/circular-imageview-with-picasso.md)
-
-### AngularJs
+- [Circular ImageView with Picasso](android/circular-imageview-with-picasso.md)
 
 ### Angular 5
 - [Add a Window Resize event listener for a component](angular5/add-window-resize-event-listener-comopnent.md)
@@ -55,7 +48,9 @@ _40 TILs and counting..._
 - [Apply two or more pipes](angular5/apply-more-than-one-pipe.md)
 - [Close Dialog from typescript](angular5/close-dialog-from-typescript.md)
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
+- [Get query parameters](angular5/get-query-parameters.md)
 - [Hide an element based on window size](angular5/hide-element-based-on-window-size.md)
+- [Pass data to routerLink](angular5/pass-data-to-routerlink.md)
 - [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
 - [Update Data Model from any component or service using @Input Decorator](angular5/update-data-model-from-any-component-service-using-input-decorator.md)
 - [Use div contenteditable property with template model binding](angular5/use-div-contenteditable-with-template-model-binding.md)
@@ -67,10 +62,11 @@ _40 TILs and counting..._
 
 ### CSS
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)
-
-### Facebook SDk
+- [RTL list with boostrap](css/rtl-list-with-bootstrap.md)
+- [Star ratings with percentage](css/star-rating-with-percentage.md)
 
 ### Firebase
+- [Add Cache-Control headers](firebase/add-cache-control-header.md)
 - [Get Firebase Project Name](firebase/get-firebase-app-name.md)
 - [Where to find Firebase cloud messaging server API key in firebase console](firebase/where-to-find-firebase-cloud-messaging-server-api-key-in-firebase-console.md)
 
@@ -86,6 +82,7 @@ _40 TILs and counting..._
 - [Codeblock highlighting programming languages supported by Github](github/codeblock-highlighting-languages-supported-by-github.md)
 
 ### JavaScript
+- [Filter a Javascript Array](javascript/filter-array.md)
 - [Get only unique values from a Javascript Array](javascript/get-unique-array.md)
 - [Trim/Remove first or last character in Javascript](javascript/trim-remove-character-from-start-or-end.md)
 
@@ -96,6 +93,8 @@ _40 TILs and counting..._
 - [Get directory name and filename of the current module in Node.js](nodejs/get-directory-name-and-filename-of-current-module.md)
 
 ### Other
+- [Add a new file type to context menu in Windows 10](other/add-new-file-type-to-context-menu-in-windows-10.md)
+- [Configure and connect Mysql Workbench with SSH connection](other/configure-and-connect-mysql-workbench-with-ssh-connection.md)
 - [Enable Curl in PHP.ini running on EasyPHP](other/enable-curl-apache-easyphp.md)
 - [Take permissions of a folder using sudo on Linux](other/take-permissions-of-a-folder-sudo.md)
 
@@ -108,6 +107,11 @@ _40 TILs and counting..._
 ### Programming
 - [Programming languages case styles](programming/programming-languages-case-styles.md)
 
+### Python
+- [Combine or merge two pandas Dataframes using a index](python/combine-pandas-dataframes-on-a-index.md)
+- [Read json file to pandas Dataframe](python/read-json-file.md)
+- [Select columns from a pandas dataframe](python/select-columns-from-a-pandas-dataframe.md)
+
 ### SQL
 - [Find all tables with a specific column name](sql/find-all-tables-with-a-specific-column-name.md)
 - [Return results in json](sql/return-results-in-json.md)
@@ -116,6 +120,9 @@ _40 TILs and counting..._
 - [View table schema using SQL](sql/view-table-schema-using-sql.md)
 
 ### Vue.js
+- [Add dynamic Css Style or Class](vuejs/add-dynamic-css.md)
+- [Conditional rendering with if else](vuejs/conditional-rendering-with-if-else.md)
+- [OnClick Event Handling](vuejs/onclick-event-handling.md)
 - [Optional parameters in Vue Router](vuejs/vue-router-optional-paramters.md)
 
 ---

@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. T
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _54 TILs and counting..._
 * [Programming](#programming)
 * [Python](#python)
 * [SQL](#sql)
+* [Typescript](#typescript)
 * [Vue.js](#vuejs)
 
 ---
@@ -118,6 +119,9 @@ _54 TILs and counting..._
 - [Search for a table name in a database](sql/search-for-table-name-in-a-database.md)
 - [Select all columns from the joined table and some from the other](sql/select-all-columns-from-joined-table-and-some-from-other-table.md)
 - [View table schema using SQL](sql/view-table-schema-using-sql.md)
+
+### Typescript
+- [Ignore a typerscript error](typescript/ignore-a-typescript-error.md)
 
 ### Vue.js
 - [Add dynamic Css Style or Class](vuejs/add-dynamic-css.md)

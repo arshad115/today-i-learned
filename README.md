@@ -8,9 +8,9 @@ readme: true
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://arshadmehmood.com)[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://arshadmehmood.com)[![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://arshadmehmood.com)[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://arshadmehmood.com)
 
-Today I Learned - Sharing and documenting the things I learn on a daily basis. These are tiny things which make a big difference. Over the time they are lost and documenting them along the way would be beneficial for everyone. Contains a cat gif, because, cats make people happy. Scroll to the bottom, to see the cat gif. :D
+Today I Learned - Sharing and documenting the things I learn on a daily basis. I share tiny snippets of code here which too small for a blog post but fit here. These are tiny things which make a big difference. Over the time they are lost and documenting them along the way would be beneficial for everyone. Many a times, I also come back to my til, because all the information is ordered and easy to access. Contains a cat gif, because, cats make people happy. Scroll to the bottom, to see the cat gif. :D
 
-For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com).
+For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
 _57 TILs and counting..._
 

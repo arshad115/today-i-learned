@@ -12,14 +12,14 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_59 TILs and counting..._
+_60 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Android](#android)
-* [Angular 5](#angular-5)
+* [Angular 2+](#angular-2)
 * [C#](#c)
 * [CSS](#css)
 * [Firebase](#firebase)
@@ -43,20 +43,21 @@ _59 TILs and counting..._
 ### Android
 - [Circular ImageView with Picasso](android/circular-imageview-with-picasso.md)
 
-### Angular 5
-- [Add a Window Resize event listener for a component](angular5/add-window-resize-event-listener-comopnent.md)
-- [Add SEO to an Angular App](angular5/add-seo-to-an-angular-app.md)
-- [Apply two or more pipes](angular5/apply-more-than-one-pipe.md)
-- [Bind local method to Dom event listener](angular5/bind-local-method-to-dom-eventlistener.md)
-- [Close Dialog from typescript](angular5/close-dialog-from-typescript.md)
+### Angular 2
+- [Add a Window Resize event listener for a component](angular2/add-window-resize-event-listener-comopnent.md)
+- [Add SEO to an Angular App](angular2/add-seo-to-an-angular-app.md)
+- [Apply two or more pipes](angular2/apply-more-than-one-pipe.md)
+- [Bind local method to Dom event listener](angular2/bind-local-method-to-dom-eventlistener.md)
+- [Close Dialog from typescript](angular2/close-dialog-from-typescript.md)
 - [Disable closing the dialog on clicking outside the dialog window in Angular](angular5/disable-dialog-close-on-click-outsite.md)
-- [Get query parameters](angular5/get-query-parameters.md)
-- [Hide an element based on window size](angular5/hide-element-based-on-window-size.md)
-- [Pass data to routerLink](angular5/pass-data-to-routerlink.md)
-- [Safe template data binding with ngOnInit](angular5/ngOnInit-variable-undefined.md)
-- [Update Data Model from any component or service using @Input Decorator](angular5/update-data-model-from-any-component-service-using-input-decorator.md)
-- [Use div contenteditable property with template model binding](angular5/use-div-contenteditable-with-template-model-binding.md)
-- [Using and importing custom font](angular5/importing-custom-font.md)
+- [Get query parameters](angular2/get-query-parameters.md)
+- [Hide an element based on window size](angular2/hide-element-based-on-window-size.md)
+- [Pass data to routerLink](angular2/pass-data-to-routerlink.md)
+- [Safe template data binding with ngOnInit](angular2/ngOnInit-variable-undefined.md)
+- [Specify port for ng serve](angular2/specify-port-for-ng-serve.md)
+- [Update Data Model from any component or service using @Input Decorator](angular2/update-data-model-from-any-component-service-using-input-decorator.md)
+- [Use div contenteditable property with template model binding](angular2/use-div-contenteditable-with-template-model-binding.md)
+- [Using and importing custom font](angular2/importing-custom-font.md)
 
 ### C#
 - [Cast or deserialize a Json object to a class](csharp/cast-json-object-to-class.md)

@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_60 TILs and counting..._
+_67 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _60 TILs and counting..._
 * [Angular 2+](#angular-2)
 * [C#](#c)
 * [CSS](#css)
+* [Facebook](#facebook)
 * [Firebase](#firebase)
 * [Git](#git)
 * [Github](#github)
@@ -42,6 +43,10 @@ _60 TILs and counting..._
 
 ### Android
 - [Circular ImageView with Picasso](android/circular-imageview-with-picasso.md)
+- [Create Region in Android Studio](android/create-region-android-studio.md)
+- [Load data in webView second time](android/load-data-in-webview-second-time.md)
+- [Show logs from TimingLogger](android/show-logs-from-timinglogger.md)
+- [String array in XML](android/string-array-in-xml.md)
 
 ### Angular 2
 - [Add a Window Resize event listener for a component](angular2/add-window-resize-event-listener-comopnent.md)
@@ -67,6 +72,9 @@ _60 TILs and counting..._
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)
 - [RTL list with boostrap](css/rtl-list-with-bootstrap.md)
 - [Star ratings with percentage](css/star-rating-with-percentage.md)
+
+### Facebook
+- [Deeplinking Applinks for Facebook](facebook/deeplinking-applinks-for-facebook.md)
 
 ### Firebase
 - [Add Cache-Control headers](firebase/add-cache-control-header.md)
@@ -102,6 +110,7 @@ _60 TILs and counting..._
 - [Add a new file type to context menu in Windows 10](other/add-new-file-type-to-context-menu-in-windows-10.md)
 - [Configure and connect Mysql Workbench with SSH connection](other/configure-and-connect-mysql-workbench-with-ssh-connection.md)
 - [Enable Curl in PHP.ini running on EasyPHP](other/enable-curl-apache-easyphp.md)
+- [List installed packages on Linux](other/list-installed-packages-linux.md)
 - [Take permissions of a folder using sudo on Linux](other/take-permissions-of-a-folder-sudo.md)
 
 ### PHP
@@ -109,6 +118,7 @@ _60 TILs and counting..._
 - [Compress string or data](php/compress-string-data.md)
 - [Enable gzip compression](php/enable-gzip-compression.md)
 - [Fetch MySql column values as array](php/fetch-mysql-column-values-as-comma-separated-values.md)
+- [Install mbstring on Linux](php/install-mbstring-on-linux.md)
 
 ### Programming
 - [Programming languages case styles](programming/programming-languages-case-styles.md)

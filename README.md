@@ -93,6 +93,7 @@ _67 TILs and counting..._
 - [Codeblock highlighting programming languages supported by Github](github/codeblock-highlighting-languages-supported-by-github.md)
 
 ### JavaScript
+- [Add an attribute to a json object using spread operator](javascript/add-attribute-to-json-object-using-spread-operator.md)
 - [Document getElementById check if not null](javascript/document-getelementbyid-check-if-not-null.md)
 - [Filter a Javascript Array](javascript/filter-array.md)
 - [Get only unique values from a Javascript Array](javascript/get-unique-array.md)

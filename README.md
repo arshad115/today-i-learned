@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_68 TILs and counting..._
+_69 TILs and counting..._
 
 ---
 
@@ -59,6 +59,7 @@ _68 TILs and counting..._
 - [Hide an element based on window size](angular2/hide-element-based-on-window-size.md)
 - [Pass data to routerLink](angular2/pass-data-to-routerlink.md)
 - [Safe template data binding with ngOnInit](angular2/ngOnInit-variable-undefined.md)
+- [Send multipart form data with post request](angular2/send-multipart-form-data-with-post-request.md)
 - [Specify port for ng serve](angular2/specify-port-for-ng-serve.md)
 - [Update Data Model from any component or service using @Input Decorator](angular2/update-data-model-from-any-component-service-using-input-decorator.md)
 - [Use div contenteditable property with template model binding](angular2/use-div-contenteditable-with-template-model-binding.md)

@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_69 TILs and counting..._
+_70 TILs and counting..._
 
 ---
 
@@ -30,6 +30,7 @@ _69 TILs and counting..._
 * [Internet](#internet)
 * [JavaScript](#javascript)
 * [Jekyll](#jekyll)
+* [Nginx](#nginx)
 * [Node.js](#nodejs)
 * [Other](#other)
 * [PHP](#php)
@@ -104,6 +105,9 @@ _69 TILs and counting..._
 
 ### Jekyll
 - [Setting up jekyll/Github Pages environment](jekyll/setting-up-jekyll-environment.md)
+
+### Nginx
+- [How to test nginx config file](nginx/how-to-test-nginx-config-file.md)
 
 ### Node.js
 - [Get directory name and filename of the current module in Node.js](nodejs/get-directory-name-and-filename-of-current-module.md)

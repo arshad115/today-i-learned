@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_71 TILs and counting..._
+_72 TILs and counting..._
 
 ---
 
@@ -114,6 +114,7 @@ _71 TILs and counting..._
 - [Get directory name and filename of the current module in Node.js](nodejs/get-directory-name-and-filename-of-current-module.md)
 
 ### Other
+- [Add current user as the owner of a folder to give write permissions(other/add-current-user-as-the-owner-of-a-folder.md)
 - [Add a new file type to context menu in Windows 10](other/add-new-file-type-to-context-menu-in-windows-10.md)
 - [Configure and connect Mysql Workbench with SSH connection](other/configure-and-connect-mysql-workbench-with-ssh-connection.md)
 - [Enable Curl in PHP.ini running on EasyPHP](other/enable-curl-apache-easyphp.md)

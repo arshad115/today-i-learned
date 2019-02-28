@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_72 TILs and counting..._
+_73 TILs and counting..._
 
 ---
 
@@ -133,6 +133,7 @@ _72 TILs and counting..._
 
 ### Python
 - [Combine or merge two pandas Dataframes using a index](python/combine-pandas-dataframes-on-a-index.md)
+- [Convert list to string](python/convert-list-to-string.md)
 - [Read json file to pandas Dataframe](python/read-json-file.md)
 - [Select columns from a pandas dataframe](python/select-columns-from-a-pandas-dataframe.md)
 

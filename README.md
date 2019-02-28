@@ -134,6 +134,7 @@ _73 TILs and counting..._
 ### Python
 - [Combine or merge two pandas Dataframes using a index](python/combine-pandas-dataframes-on-a-index.md)
 - [Convert list to string](python/convert-list-to-string.md)
+- [Print object to string](python/print-object-to-string.md)
 - [Read json file to pandas Dataframe](python/read-json-file.md)
 - [Select columns from a pandas dataframe](python/select-columns-from-a-pandas-dataframe.md)
 

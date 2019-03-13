@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_78 TILs and counting..._
+_79 TILs and counting..._
 
 ---
 
@@ -70,6 +70,7 @@ _78 TILs and counting..._
 
 ### C#
 - [Cast or deserialize a Json object to a class](csharp/cast-json-object-to-class.md)
+- [Create a stream from string](csharp/create-a-stream-from-string.md)
 - [Encode/Decode Base64 string](csharp/encode-decode-base64-string.md)
 
 ### CSS

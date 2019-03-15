@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_79 TILs and counting..._
+_97 TILs and counting..._
 
 ---
 
@@ -136,12 +136,30 @@ _79 TILs and counting..._
 
 ### Python
 - [Combine or merge two pandas Dataframes using a index](python/combine-pandas-dataframes-on-a-index.md)
+- [Convert list to dictionary with indexes](python/convert-list-to-dictionary-with-indexes.md)
 - [Convert list to string](python/convert-list-to-string.md)
+- [Delete key from dictionary](python/delete-key-from-dictionary.md)
+- [Get a list of dictionary values](python/dictionary-get-list-of-values.md)
+- [Enumerate list / get index in for loop](python/enumerate-list.md)
 - [For each loop with index](python/for-each-loop-with-index.md)
+- [Get json from a URL](python/get-json-from-url.md)
+- [Get unique elements from a list](python/get-unique-elements-from-a-list.md)
 - [Iterate over dictionary key value pairs](python/iterate-over-dictionary-key-value-pairs.md)
+- [Label plot lines in matplotlib](python/label-plot-lines-in-matplotlib.md)
 - [Print object to string](python/print-object-to-string.md)
+- [Python null object singleton](python/python-null-object-singleton.md)
 - [Read json file to pandas Dataframe](python/read-json-file.md)
+- [Remove word starting with a specific character](python/remove-word-starting-with-a-specific-character.md)
+- [Replace multiple terms from a string](python/replace-multiple-terms-from-a-string.md)
+- [Replace URLs using Regex](python/replace-urls-with-regex.md)
+- [Reservoir sampling a list](python/reservoir-sampling-a-list.md)
 - [Select columns from a pandas dataframe](python/select-columns-from-a-pandas-dataframe.md)
+- [Set difference](python/set-difference.md)
+- [Set intersection](python/set-intersection.md)
+- [Shallow copy a dictionary](python/shallow-copy-a-dictionary.md)
+- [Shuffle list](python/shuffle-list.md)
+- [Split dictionary into chunks](python/split-dictionary-into-chunks.md)
+- [Trim strings in Python](python/trim-strings-in-python.md)
 
 ### SQL
 - [Find all tables with a specific column name](sql/find-all-tables-with-a-specific-column-name.md)

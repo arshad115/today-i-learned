@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_98 TILs and counting..._
+_99 TILs and counting..._
 
 ---
 
@@ -73,6 +73,7 @@ _98 TILs and counting..._
 - [Create a stream from string](csharp/create-a-stream-from-string.md)
 - [Create Stream from a Base64 String](csharp/create-stream-from-base64-string.md)
 - [Encode/Decode Base64 string](csharp/encode-decode-base64-string.md)
+- [LDAP query search filter syntax](csharp/ldap-query-search-filter-syntax.md)
 
 ### CSS
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)

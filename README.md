@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_100 TILs and counting..._
+_101 TILs and counting..._
 
 ---
 
@@ -50,6 +50,7 @@ _100 TILs and counting..._
 - [String array in XML](android/string-array-in-xml.md)
 
 ### Angular 2
+- [Add dynamic css style properties](angular2/add-dynamic-css-style-properties.md)
 - [Add a Window Resize event listener for a component](angular2/add-window-resize-event-listener-comopnent.md)
 - [Add SEO to an Angular App](angular2/add-seo-to-an-angular-app.md)
 - [Apply two or more pipes](angular2/apply-more-than-one-pipe.md)

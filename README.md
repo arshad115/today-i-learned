@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_103 TILs and counting..._
+_104 TILs and counting..._
 
 ---
 
@@ -108,6 +108,7 @@ _103 TILs and counting..._
 - [Document getElementById check if not null](javascript/document-getelementbyid-check-if-not-null.md)
 - [Filter a Javascript Array](javascript/filter-array.md)
 - [Get only unique values from a Javascript Array](javascript/get-unique-array.md)
+- [Local Storage](javascript/local-storage.md)
 - [Remove class name from element](javascript/remove-class-name.md)
 - [Remove element from DOM](javascript/remove-element-from-dom.md)
 - [Replace everything in a string before a certain point using regex](javascript/replace-everything-before-a-certain-point-using-regex.md)

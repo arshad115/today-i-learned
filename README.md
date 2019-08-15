@@ -1,5 +1,5 @@
 ---
-permalink: /today-i-learned/readme/
+permalink: "/today-i-learned/readme/"
 readme: true
 ---
 

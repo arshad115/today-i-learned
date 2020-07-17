@@ -167,6 +167,7 @@ _106 TILs and counting..._
 - [Set intersection](python/set-intersection.md)
 - [Shallow copy a dictionary](python/shallow-copy-a-dictionary.md)
 - [Shuffle list](python/shuffle-list.md)
+- [Sort dictionary by value](python/sort-dictionary-value.md)
 - [Split dictionary into chunks](python/split-dictionary-into-chunks.md)
 - [Trim strings in Python](python/trim-strings-in-python.md)
 

@@ -145,6 +145,7 @@ _106 TILs and counting..._
 
 ### Python
 - [Combine or merge two pandas Dataframes using a index](python/combine-pandas-dataframes-on-a-index.md)
+- [Convert dictionary values or keys to list](python/convert-dictionary-keys-values-list.md)
 - [Convert list to dictionary with indexes](python/convert-list-to-dictionary-with-indexes.md)
 - [Convert list to string](python/convert-list-to-string.md)
 - [Delete key from dictionary](python/delete-key-from-dictionary.md)

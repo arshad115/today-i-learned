@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_106 TILs and counting..._
+_118 TILs and counting..._
 
 ---
 
@@ -144,17 +144,24 @@ _106 TILs and counting..._
 - [Programming languages case styles](programming/programming-languages-case-styles.md)
 
 ### Python
+- [Check if list contains unique elements](python/check-if-list-contains-unique-elements.md)
+- [Check if string is numeric](python/check-if-string-is-numeric.md)
+- [Check if string is a palindrome](python/check-palindrome.md)
 - [Combine or merge two pandas Dataframes using a index](python/combine-pandas-dataframes-on-a-index.md)
 - [Convert dictionary values or keys to list](python/convert-dictionary-keys-values-list.md)
 - [Convert list to dictionary with indexes](python/convert-list-to-dictionary-with-indexes.md)
 - [Convert list to string](python/convert-list-to-string.md)
 - [Delete key from dictionary](python/delete-key-from-dictionary.md)
+- [Docstring for describing functions](python/docstring-for-describing-functions.md)
 - [Get a list of dictionary values](python/dictionary-get-list-of-values.md)
 - [Enumerate list / get index in for loop](python/enumerate-list.md)
 - [For each loop with index](python/for-each-loop-with-index.md)
 - [Get json from a URL](python/get-json-from-url.md)
 - [Get unique elements from a list](python/get-unique-elements-from-a-list.md)
+- [Get unique elements from a list of lists](python/get-unique-elements-from-a-list-of-lists.md)
+- [Infinity](python/infinity.md)
 - [Iterate over dictionary key value pairs](python/iterate-over-dictionary-key-value-pairs.md)
+- [Iterate over nested lists](python/iterate-over-nested-lists.md)
 - [Label plot lines in matplotlib](python/label-plot-lines-in-matplotlib.md)
 - [Print object to string](python/print-object-to-string.md)
 - [Python null object singleton](python/python-null-object-singleton.md)
@@ -163,6 +170,7 @@ _106 TILs and counting..._
 - [Replace multiple terms from a string](python/replace-multiple-terms-from-a-string.md)
 - [Replace URLs using Regex](python/replace-urls-with-regex.md)
 - [Reservoir sampling a list](python/reservoir-sampling-a-list.md)
+- [Reverse string](python/reverse-string.md)
 - [Select columns from a pandas dataframe](python/select-columns-from-a-pandas-dataframe.md)
 - [Set difference](python/set-difference.md)
 - [Set intersection](python/set-intersection.md)
@@ -170,6 +178,8 @@ _106 TILs and counting..._
 - [Shuffle list](python/shuffle-list.md)
 - [Sort dictionary by value](python/sort-dictionary-value.md)
 - [Split dictionary into chunks](python/split-dictionary-into-chunks.md)
+- [String starts with a list of strings](python/string-starts-with-a-list-of-strings.md)
+- [Strip non-alphabetical or non-alphanumeric characters in a string](python/strip-non-alphabetical-or-non-alphanumeric-characters-in-a-string.md)
 - [Trim strings in Python](python/trim-strings-in-python.md)
 
 ### SQL

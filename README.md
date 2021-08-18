@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_118 TILs and counting..._
+_119 TILs and counting..._
 
 ---
 
@@ -100,6 +100,7 @@ _118 TILs and counting..._
 - [Pull changes from the master or other branch](git/pull-changes-from-the-master-or-other-branch.md)
 - [Remove staged files](git/remove-staged-files.md)
 - [Revert the latest commit](git/revert-latest-commit.md)
+- [Undo git pull](git/undo-git-pull-how-to-bring-repos-to-old-state.md)
 
 ### Github
 - [Add a license to an exisiting Github Repository](github/add-a-license-to-existing-repository.md)

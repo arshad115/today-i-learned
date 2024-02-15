@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_119 TILs and counting..._
+_120 TILs and counting..._
 
 ---
 
@@ -105,6 +105,7 @@ _119 TILs and counting..._
 ### Github
 - [Add a license to an exisiting Github Repository](github/add-a-license-to-existing-repository.md)
 - [Codeblock highlighting programming languages supported by Github](github/codeblock-highlighting-languages-supported-by-github.md)
+- [Get Github Repository size with BASH](github/get-github-repo-size-with-bash.md)
 
 ### JavaScript
 - [Add an attribute to a json object using spread operator](javascript/add-attribute-to-json-object-using-spread-operator.md)

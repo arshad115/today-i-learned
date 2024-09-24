@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_121 TILs and counting..._
+_122 TILs and counting..._
 
 ---
 
@@ -99,6 +99,7 @@ _121 TILs and counting..._
 - [Clone without folder](git/clone-wtihout-folder.md)
 - [Delete local branch](git/delete-local-branch.md)
 - [Delete remote branch](git/delete-remote-branch.md)
+- [Fix detached submodule head by tracking the right branch](git/fix-detached-head-submodule.md)
 - [Ignore local commits and pull repository from the remote branch](git/ignore-local-commits-and-pull.md)
 - [Move commits to a new branch](git/move-commits-to-a-new-branch.md)
 - [Pull changes from the master or other branch](git/pull-changes-from-the-master-or-other-branch.md)

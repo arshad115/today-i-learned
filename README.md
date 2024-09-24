@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_120 TILs and counting..._
+_121 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _120 TILs and counting..._
 * [Angular 2+](#angular-2)
 * [C#](#c)
 * [CSS](#css)
+* [Docker](#docker)
 * [Facebook](#facebook)
 * [Firebase](#firebase)
 * [Git](#git)
@@ -81,6 +82,9 @@ _120 TILs and counting..._
 - [Float Left/Right with display:flex](css/float-left-right-with-display-flex.md)
 - [RTL list with boostrap](css/rtl-list-with-bootstrap.md)
 - [Star ratings with percentage](css/star-rating-with-percentage.md)
+
+### Docker
+- [Multiple ways to run a Docker container](docker/multiple-ways-to-run-a-docker-container.md)
 
 ### Facebook
 - [Deeplinking Applinks for Facebook](facebook/deeplinking-applinks-for-facebook.md)

@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_122 TILs and counting..._
+_123 TILs and counting..._
 
 ---
 
@@ -131,6 +131,7 @@ _122 TILs and counting..._
 
 ### Node.js
 - [Get directory name and filename of the current module in Node.js](nodejs/get-directory-name-and-filename-of-current-module.md)
+- [Run npm scripts in parallel or sequentially](nodejs/run-npm-scripts-in-parallel-or-sequentially.md)
 
 ### Other
 - [Add current user as the owner of a folder to give write permissions](other/add-current-user-as-the-owner-of-a-folder.md)

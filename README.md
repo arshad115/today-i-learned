@@ -12,7 +12,7 @@ Today I Learned - Sharing and documenting the things I learn on a daily basis. I
 
 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_123 TILs and counting..._
+_124 TILs and counting..._
 
 ---
 
@@ -84,6 +84,7 @@ _123 TILs and counting..._
 - [Star ratings with percentage](css/star-rating-with-percentage.md)
 
 ### Docker
+- [Check Postgres db table in Docker](docker/check-postgres-db-table-in-docker.md)
 - [Multiple ways to run a Docker container](docker/multiple-ways-to-run-a-docker-container.md)
 
 ### Facebook

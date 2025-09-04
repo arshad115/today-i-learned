@@ -88,6 +88,10 @@ def generate_anchor_link(category_name):
         return '️-sql'
     elif anchor == '🅰️ angular 2+':
         return '🅰️-angular-2'
+    elif anchor == '💚 node.js':
+        return '-nodejs'
+    elif anchor == '💚 vue.js':
+        return '-vuejs'
     
     # Default handling for other emojis
     # Replace leading emoji with dash

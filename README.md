@@ -18,6 +18,7 @@ _📚 126 TILs and counting... 🚀_
 
 
 
+
 ---
 
 ### 🚀 How to Use This Repository
@@ -53,14 +54,14 @@ _📚 126 TILs and counting... 🚀_
 * [⚡ JavaScript](#-javascript)
 * [💎 Jekyll](#-jekyll)
 * [🌐 Nginx](#-nginx)
-* [💚 Node.js](#-node-js)
+* [💚 Node.js](#-nodejs)
 * [🔧 Other](#-other)
 * [🐘 PHP](#-php)
 * [💻 Programming](#-programming)
 * [🐍 Python](#-python)
 * [🗄️ SQL](#️-sql)
 * [📘 TypeScript](#-typescript)
-* [💚 Vue.js](#-vue-js)
+* [💚 Vue.js](#-vuejs)
 
 ---
 

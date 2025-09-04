@@ -222,10 +222,24 @@ def update_readme():
     with open(readme_path, 'r', encoding='utf-8') as file:
         content = file.read()
     
-    # Extract the header part (everything before "### Categories" or "### 📋 Categories")
-    header_match = re.search(r'^(.*?)^### (?:📋 )?Categories', content, re.MULTILINE | re.DOTALL)
+    # Extract the header part (everything before any generated sections)
+    # Look for patterns that indicate the start of generated content
+    patterns_to_find = [
+        r'^### 🚀 How to Use This Repository',
+        r'^###\s+How to Use This Repository',  # Without emoji
+        r'^### 📊 Quick Stats',
+        r'^### 📋 Categories',
+        r'^### Categories'  # Without emoji
+    ]
+    
+    header_match = None
+    for pattern in patterns_to_find:
+        header_match = re.search(f'^(.*?){pattern}', content, re.MULTILINE | re.DOTALL)
+        if header_match:
+            break
+    
     if not header_match:
-        print("Could not find the Categories section in README.md")
+        print("Could not find any section markers in README.md")
         return
 
     header = header_match.group(1).rstrip()
@@ -235,7 +249,10 @@ def update_readme():
     while header_lines and header_lines[-1].strip() == '---':
         header_lines.pop()
     header = '\n'.join(header_lines)    # Update the TIL count in the header with emoji
-    header = re.sub(r'_\d+ TILs and counting\.\.\._', f'_📚 {total_count} TILs and counting... 🚀_', header)
+    header = re.sub(r'_📚\s*\d+\s*TILs and counting\.\.\.\s*🚀_', f'_📚 {total_count} TILs and counting... 🚀_', header)
+    
+    # Also handle the case without emojis (fallback)
+    header = re.sub(r'_\d+\s*TILs and counting\.\.\._', f'_📚 {total_count} TILs and counting... 🚀_', header)
     
     # Extract the footer part (everything from "---" before "### Catz" or "### 🐱 Catz")
     footer_match = re.search(r'^---\s*^### (?:🐱 )?Catz.*$', content, re.MULTILINE | re.DOTALL)

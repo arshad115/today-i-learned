@@ -12,7 +12,8 @@ readme: true
 
 🌐 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_📚 126 TILs and counting... 🚀_
+_📚 127 TILs and counting... 🚀_
+
 
 
 
@@ -30,8 +31,8 @@ _📚 126 TILs and counting... 🚀_
 
 ### 📊 Quick Stats
 
-🎯 **Total TILs:** 126
-📁 **Categories:** 20
+🎯 **Total TILs:** 127
+📁 **Categories:** 21
 
 🔥 **Top Categories:**
 1. 🐍 Python: **37** TILs
@@ -42,6 +43,7 @@ _📚 126 TILs and counting... 🚀_
 
 ### 📋 Categories
 
+* [📚 .github](#-github)
 * [🤖 Android](#-android)
 * [🅰️ Angular 2+](#🅰️-angular-2)
 * [💎 C#](#-c)
@@ -64,6 +66,9 @@ _📚 126 TILs and counting... 🚀_
 * [💚 Vue.js](#-vuejs)
 
 ---
+
+### 📚 .github
+- [GitHub Copilot Instructions for Today I Learned Project](.github/copilot-instructions.md)
 
 ### 🤖 Android
 - [Circular ImageView with Picasso](android/circular-imageview-with-picasso.md)

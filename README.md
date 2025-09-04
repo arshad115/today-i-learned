@@ -17,6 +17,7 @@ _📚 126 TILs and counting... 🚀_
 
 
 
+
 ---
 
 ### 🚀 How to Use This Repository
@@ -41,7 +42,7 @@ _📚 126 TILs and counting... 🚀_
 ### 📋 Categories
 
 * [🤖 Android](#-android)
-* [🅰️ Angular 2+](#-angular-2)
+* [🅰️ Angular 2+](#🅰️-angular-2)
 * [💎 C#](#-c)
 * [🎨 CSS](#-css)
 * [🐳 Docker](#-docker)
@@ -57,7 +58,7 @@ _📚 126 TILs and counting... 🚀_
 * [🐘 PHP](#-php)
 * [💻 Programming](#-programming)
 * [🐍 Python](#-python)
-* [🗄️ SQL](#-sql)
+* [🗄️ SQL](#️-sql)
 * [📘 TypeScript](#-typescript)
 * [💚 Vue.js](#-vue-js)
 

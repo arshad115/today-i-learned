@@ -77,14 +77,29 @@ def get_category_display_name(folder_name):
 
 
 def generate_anchor_link(category_name):
-    """Generate anchor link for table of contents."""
-    # Remove emoji and convert to lowercase and replace spaces/special chars with hyphens
-    # First remove emojis and extra spaces
-    clean_name = re.sub(r'[^\w\s-]', '', category_name).strip()
-    anchor = clean_name.lower()
-    anchor = re.sub(r'\s+', '-', anchor)  # Replace spaces with hyphens
-    anchor = re.sub(r'-+', '-', anchor)  # Replace multiple hyphens with single
-    return anchor.strip('-')
+    """Generate anchor link for table of contents according to GitHub's actual rules."""
+    # Based on real GitHub behavior: 🐙 GitHub -> #-github
+    # GitHub converts leading emojis to a dash in anchor IDs
+    
+    # Convert to lowercase
+    anchor = category_name.lower()
+    
+    # Replace emoji at the beginning with a dash (this matches GitHub's actual behavior)
+    anchor = re.sub(r'^[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F1E0-\U0001F1FF\U00002702-\U000027B0\U000024C2-\U0001F251]+\s*', '-', anchor)
+    
+    # Replace any remaining emojis with dashes
+    anchor = re.sub(r'[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF\U0001F680-\U0001F6FF\U0001F1E0-\U0001F1FF\U00002702-\U000027B0\U000024C2-\U0001F251]+', '-', anchor)
+    
+    # Replace other special characters and spaces with dashes
+    anchor = re.sub(r'[^\w-]+', '-', anchor)
+    
+    # Remove multiple consecutive dashes
+    anchor = re.sub(r'-+', '-', anchor)
+    
+    # Remove trailing dashes but keep leading dash
+    anchor = anchor.rstrip('-')
+    
+    return anchor
 
 
 def scan_til_folders():

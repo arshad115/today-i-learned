@@ -98,6 +98,27 @@ _📚 126 TILs and counting... 🚀_
 4. ⚡ JavaScript: **9** TILs
 5. 🔧 Other: **6** TILs
 
+---
+
+### 🚀 How to Use This Repository
+
+📖 **Browse by Category**: Click on any category below to jump to that section
+🔍 **Search**: Use `Ctrl+F` (or `Cmd+F` on Mac) to search for specific topics
+🌐 **Web Version**: Visit [arshadmehmood.com/today-i-learned](https://arshadmehmood.com/today-i-learned/) for a better reading experience
+⭐ **Star this repo**: If you find it useful, consider giving it a star!
+
+### 📊 Quick Stats
+
+🎯 **Total TILs:** 126
+📁 **Categories:** 20
+
+🔥 **Top Categories:**
+1. 🐍 Python: **37** TILs
+2. 🅰️ Angular 2+: **18** TILs
+3. 📝 Git: **12** TILs
+4. ⚡ JavaScript: **9** TILs
+5. 🔧 Other: **6** TILs
+
 ### 📋 Categories
 
 * [🤖 Android](#android)
@@ -164,8 +185,8 @@ _📚 126 TILs and counting... 🚀_
 - [Star ratings with percentage](css/star-rating-with-percentage.md)
 
 ### 🐳 Docker
-- [Build And Push With Docker](docker/build-and-push-with-docker.md)
 - [Check Postgres db table in Docker](docker/check-postgres-db-table-in-docker.md)
+- [Docker Build and Push: docker build/push vs docker buildx](docker/build-and-push-with-docker.md)
 - [Multiple Ways to Run a Docker Container](docker/multiple-ways-to-run-a-docker-container.md)
 
 ### 📘 Facebook

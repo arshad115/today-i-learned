@@ -119,7 +119,7 @@ def scan_til_folders():
     total_count = 0
     
     # Get all directories (excluding hidden ones and specific files)
-    exclude_items = {'.git', '.gitignore', 'LICENSE', 'README.md', '_config.yml', '.DS_Store'}
+    exclude_items = {'.git', '.github', '.gitignore', 'LICENSE', 'README.md', '_config.yml', '.DS_Store'}
     
     for item in script_dir.iterdir():
         if item.is_dir() and item.name not in exclude_items:

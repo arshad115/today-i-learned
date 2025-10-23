@@ -12,7 +12,9 @@ readme: true
 
 🌐 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_📚 127 TILs and counting... 🚀_
+_📚 128 TILs and counting... 🚀_
+
+
 
 
 
@@ -34,8 +36,8 @@ _📚 127 TILs and counting... 🚀_
 
 ### 📊 Quick Stats
 
-🎯 **Total TILs:** 127
-📁 **Categories:** 20
+🎯 **Total TILs:** 128
+📁 **Categories:** 21
 
 🔥 **Top Categories:**
 1. 🐍 Python: **37** TILs
@@ -57,6 +59,7 @@ _📚 127 TILs and counting... 🚀_
 * [🐙 GitHub](#-github)
 * [⚡ JavaScript](#-javascript)
 * [💎 Jekyll](#-jekyll)
+* [☸️ Kubernetes](#-kubernetes)
 * [🌐 Nginx](#-nginx)
 * [💚 Node.js](#-nodejs)
 * [🔧 Other](#-other)
@@ -155,6 +158,9 @@ _📚 127 TILs and counting... 🚀_
 
 ### 💎 Jekyll
 - [Setting up jekyll/Github Pages environment](jekyll/setting-up-jekyll-environment.md)
+
+### ☸️ Kubernetes
+- [API Groups, Domains, and Versioning](kubernetes/api-groups-domains-and-versioning.md)
 
 ### 🌐 Nginx
 - [How To Test Nginx Config File](nginx/how-to-test-nginx-config-file.md)

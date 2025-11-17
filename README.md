@@ -12,7 +12,8 @@ readme: true
 
 🌐 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_📚 128 TILs and counting... 🚀_
+_📚 129 TILs and counting... 🚀_
+
 
 
 
@@ -36,13 +37,13 @@ _📚 128 TILs and counting... 🚀_
 
 ### 📊 Quick Stats
 
-🎯 **Total TILs:** 128
+🎯 **Total TILs:** 129
 📁 **Categories:** 21
 
 🔥 **Top Categories:**
 1. 🐍 Python: **37** TILs
 2. 🅰️ Angular 2+: **18** TILs
-3. 📝 Git: **13** TILs
+3. 📝 Git: **14** TILs
 4. ⚡ JavaScript: **9** TILs
 5. 🔧 Other: **6** TILs
 
@@ -134,6 +135,7 @@ _📚 128 TILs and counting... 🚀_
 - [Fresh Start: Backing Up Main Branch and Creating Clean Main](git/fresh-start-main.md)
 - [Ignore local commits and pull repository from the remote branch](git/ignore-local-commits-and-pull.md)
 - [Move Commits To A New Branch](git/move-commits-to-a-new-branch.md)
+- [Pull A single file or a folder from another branch](git/pull-a-single-file-or-a-folder-from-another-branch.md)
 - [Pull changes from the master or other branch](git/pull-changes-from-the-master-or-other-branch.md)
 - [Remove staged files](git/remove-staged-files.md)
 - [Revert Changes from Folder to Branch](git/revert-changes-from-folder-to-branch.md)

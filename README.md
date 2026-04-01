@@ -12,7 +12,18 @@ readme: true
 
 🌐 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_📚 129 TILs and counting... 🚀_
+_📚 138 TILs and counting... 🚀_
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37,15 +48,15 @@ _📚 129 TILs and counting... 🚀_
 
 ### 📊 Quick Stats
 
-🎯 **Total TILs:** 129
-📁 **Categories:** 21
+🎯 **Total TILs:** 138
+📁 **Categories:** 23
 
 🔥 **Top Categories:**
 1. 🐍 Python: **37** TILs
 2. 🅰️ Angular 2+: **18** TILs
 3. 📝 Git: **14** TILs
 4. ⚡ JavaScript: **9** TILs
-5. 🔧 Other: **6** TILs
+5. 📚 Ssh: **8** TILs
 
 ### 📋 Categories
 
@@ -67,7 +78,9 @@ _📚 129 TILs and counting... 🚀_
 * [🐘 PHP](#-php)
 * [💻 Programming](#-programming)
 * [🐍 Python](#-python)
+* [📚 Security](#-security)
 * [🗄️ SQL](#️-sql)
+* [📚 Ssh](#-ssh)
 * [📘 TypeScript](#-typescript)
 * [💚 Vue.js](#-vuejs)
 
@@ -228,12 +241,25 @@ _📚 129 TILs and counting... 🚀_
 - [Trim strings in Python](python/trim-strings-in-python.md)
 - [using set() + len()](python/check-if-list-contains-unique-elements.md)
 
+### 📚 Security
+- [Fail2ban for SSH](security/fail2ban-for-ssh.md)
+
 ### 🗄️ SQL
 - [Find all tables with a specific column name](sql/find-all-tables-with-a-specific-column-name.md)
 - [Return results in json](sql/return-results-in-json.md)
 - [Search for a table name in a database](sql/search-for-table-name-in-a-database.md)
 - [Select all columns from the joined table and some from the other](sql/select-all-columns-from-joined-table-and-some-from-other-table.md)
 - [View table schema using SQL](sql/view-table-schema-using-sql.md)
+
+### 📚 Ssh
+- [Executing remote commands with SSH](ssh/executing-remote-commands-with-ssh.md)
+- [File transfers using scp with remote locations](ssh/file-transfers-using-scp-with-remote-locations.md)
+- [Fix REMOTE HOST IDENTIFICATION HAS CHANGED warning with ssh-keygen -R](ssh/fix-remote-host-identification-has-changed-warning-with-ssh-keygen-r.md)
+- [SSH connection basics: password, keys, and parameters](ssh/ssh-connection-basics.md)
+- [SSH connection without welcome message or banner](ssh/ssh-connection-without-welcome-message-or-banner.md)
+- [Using rsync for file transfers](ssh/using-rsync-for-file-transfers.md)
+- [Using scp for file transfers](ssh/using-scp-for-file-transfers.md)
+- [Using SSH agent to manage keys](ssh/using-ssh-agent-to-manage-keys.md)
 
 ### 📘 TypeScript
 - [Ignore a typerscript error](typescript/ignore-a-typescript-error.md)

@@ -12,7 +12,9 @@ readme: true
 
 🌐 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_📚 138 TILs and counting... 🚀_
+_📚 139 TILs and counting... 🚀_
+
+
 
 
 
@@ -48,13 +50,13 @@ _📚 138 TILs and counting... 🚀_
 
 ### 📊 Quick Stats
 
-🎯 **Total TILs:** 138
+🎯 **Total TILs:** 139
 📁 **Categories:** 23
 
 🔥 **Top Categories:**
 1. 🐍 Python: **37** TILs
 2. 🅰️ Angular 2+: **18** TILs
-3. 📝 Git: **14** TILs
+3. 📝 Git: **15** TILs
 4. ⚡ JavaScript: **9** TILs
 5. 📚 Ssh: **8** TILs
 
@@ -146,6 +148,7 @@ _📚 138 TILs and counting... 🚀_
 - [Delete remote branch](git/delete-remote-branch.md)
 - [Fixing Detached HEAD in a Git Submodule](git/fix-detached-head-submodule.md)
 - [Fresh Start: Backing Up Main Branch and Creating Clean Main](git/fresh-start-main.md)
+- [Git empty commits with --allow-empty](git/git-empty-commits-with-allow-empty.md)
 - [Ignore local commits and pull repository from the remote branch](git/ignore-local-commits-and-pull.md)
 - [Move Commits To A New Branch](git/move-commits-to-a-new-branch.md)
 - [Pull A single file or a folder from another branch](git/pull-a-single-file-or-a-folder-from-another-branch.md)

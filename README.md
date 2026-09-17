@@ -12,7 +12,8 @@ readme: true
 
 🌐 For a steady stream of TILs and my other blog posts, checkout my website [arshadmehmood.com](https://arshadmehmood.com). To read these tils in a nice, beautiful looking way, read them [here on my blog](https://arshadmehmood.com/today-i-learned/).
 
-_📚 139 TILs and counting... 🚀_
+_📚 140 TILs and counting... 🚀_
+
 
 
 
@@ -50,13 +51,13 @@ _📚 139 TILs and counting... 🚀_
 
 ### 📊 Quick Stats
 
-🎯 **Total TILs:** 139
+🎯 **Total TILs:** 140
 📁 **Categories:** 23
 
 🔥 **Top Categories:**
 1. 🐍 Python: **37** TILs
 2. 🅰️ Angular 2+: **18** TILs
-3. 📝 Git: **15** TILs
+3. 📝 Git: **16** TILs
 4. ⚡ JavaScript: **9** TILs
 5. 📚 Ssh: **8** TILs
 
@@ -143,6 +144,7 @@ _📚 139 TILs and counting... 🚀_
 
 ### 📝 Git
 - [Add or link another git repository as a submodule](git/add-another-repository-as-submodule.md)
+- [Check if local git files are older than remote](git/check-if-local-git-files-are-older-than-remote.md)
 - [Clone without folder](git/clone-wtihout-folder.md)
 - [Delete local branch](git/delete-local-branch.md)
 - [Delete remote branch](git/delete-remote-branch.md)

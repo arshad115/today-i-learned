@@ -1,4 +1,6 @@
-### Add current user as the owner of a folder to give write permissions
+---
+title: Add current user as the owner of a folder to give write permissions
+---
 
 Run the following commands:
 

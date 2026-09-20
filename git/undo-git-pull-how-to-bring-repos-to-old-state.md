@@ -1,4 +1,6 @@
-# Undo git pull
+---
+title: Undo git pull
+---
 
 ### With Head
 ```

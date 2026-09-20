@@ -1,4 +1,6 @@
-# Return results in json
+---
+title: Return results in json
+---
 
 The following works for `MS SQL Server`:
 

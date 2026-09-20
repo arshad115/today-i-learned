@@ -1,4 +1,6 @@
-# Add dynamic Css Style or Class
+---
+title: Add dynamic Css Style or Class
+---
 
 You can use the `v-bind` property to use dynamic css. You have two directives, namely: *`v-bind:style`* and *`v-bind:class`*.
 

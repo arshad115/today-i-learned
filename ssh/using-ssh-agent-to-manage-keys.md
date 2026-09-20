@@ -1,4 +1,6 @@
-# Using SSH agent to manage keys
+---
+title: Using SSH agent to manage keys
+---
 
 SSH agent is a background process that holds your decrypted SSH keys in memory, so you don't need to enter your passphrase repeatedly.
 
@@ -65,4 +67,3 @@ ssh-add ~/.ssh/id_ed25519 2>/dev/null
 ```
 
 This starts the agent automatically and loads your key on login (you'll be prompted for the passphrase once).
-

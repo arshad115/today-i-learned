@@ -28,7 +28,7 @@ This installs a git hook that automatically updates README.md when you commit .m
 The script automatically:
 
 1. **Scans all folders** for `.md` files (ignoring empty folders)
-2. **Extracts titles** from markdown files (prefers `# Header` or `## Header`, falls back to filename)
+2. **Extracts titles** from YAML `title:` first, then a leading `# Heading`, then the filename
 3. **Counts total TILs** and updates the count in the README
 4. **Generates table of contents** with proper anchor links
 5. **Creates category sections** with sorted file lists
@@ -69,10 +69,12 @@ Run this script whenever you:
 ## Features
 
 ### Automatic Title Extraction
-The script intelligently extracts titles from markdown files:
-1. First tries to find `# Title` (H1 header)
-2. Falls back to `## Title` (H2 header)
-3. If no headers found, converts filename to title case
+The script reads titles from markdown files in this order:
+1. YAML front matter `title:`
+2. A leading `# Title` (H1) if there is no YAML title
+3. The filename, converted to title case
+
+Do not use a body H1 that repeats the YAML title. The blog layout prints the title.
 
 ### Category Mapping
 Special category names are automatically converted:

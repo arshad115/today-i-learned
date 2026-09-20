@@ -1,4 +1,6 @@
-# SSH connection without welcome message or banner
+---
+title: SSH connection without welcome message or banner
+---
 
 Suppress SSH banners, welcome messages, and diagnostic output using the `-q` (quiet) flag.
 
@@ -71,4 +73,3 @@ ssh -q -T user@hostname < script.sh
 ## Note
 
 The `-q` flag controls **local** SSH client messages, not server-side banner. If the server sends a banner, you may still see it. For full suppression at server level, the admin must configure `/etc/ssh/sshd_config` with `Banner none`.
-

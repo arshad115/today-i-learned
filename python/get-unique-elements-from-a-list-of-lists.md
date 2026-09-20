@@ -1,4 +1,6 @@
-# Get unique elements from a list of lists
+---
+title: Get unique elements from a list of lists
+---
 
 Using set with tuple:
 

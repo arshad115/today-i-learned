@@ -1,4 +1,6 @@
-# Sort dictionary by value
+---
+title: Sort dictionary by value
+---
 
 The builtin method "sorted()" can be used to sort a dictionary by values. 
 

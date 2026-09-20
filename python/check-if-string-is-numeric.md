@@ -1,4 +1,6 @@
-### Check if string is numeric
+---
+title: Check if string is numeric
+---
 
 Python makes it easy with `isnumeric()`.
 

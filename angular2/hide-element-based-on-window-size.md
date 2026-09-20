@@ -1,4 +1,6 @@
-# Hide an element based on window size
+---
+title: Hide an element based on window size
+---
 
 In the [previous til](add-window-resize-event-listener-comopnent.md), I posted the code for window resize event listener, now we will use it to show/hide elements.
 

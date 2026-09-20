@@ -1,4 +1,6 @@
-# Docstring for describing functions
+---
+title: Docstring for describing functions
+---
 
 The methods in python can be described with docstring. Docstring for a method can be accessed using `__doc__`.
 

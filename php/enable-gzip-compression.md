@@ -1,4 +1,6 @@
-# Enable gzip compression
+---
+title: Enable gzip compression
+---
 
 To enable gzip compression in PHP use this single line of code:
 

@@ -1,4 +1,6 @@
-# String array in XML
+---
+title: String array in XML
+---
 
 You can create an array in `strings.xml` file or any other xml file *(arrays.xml?)* like this:
 
@@ -16,4 +18,3 @@ You can create an array in `strings.xml` file or any other xml file *(arrays.xml
     </string-array>
 </resources>
 ```
-

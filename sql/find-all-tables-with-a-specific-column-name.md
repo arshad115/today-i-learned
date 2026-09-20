@@ -1,4 +1,6 @@
-# Find all tables with a specific column name
+---
+title: Find all tables with a specific column name
+---
 
 ### Search Tables:
 ```sql

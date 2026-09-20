@@ -1,4 +1,6 @@
-### Iterate over dictionary key value pairs
+---
+title: Iterate over dictionary key value pairs
+---
 
 `photoArr` is an dictionary of photos with keys
 

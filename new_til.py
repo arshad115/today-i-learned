@@ -4,10 +4,24 @@ TIL (Today I Learned) Generator
 Creates a new TIL entry with proper structure and filename.
 """
 
+import json
 import os
 import sys
-from datetime import datetime
 import re
+
+def yaml_scalar(value):
+    """Quote a YAML scalar when the value would be ambiguous unquoted."""
+    text = str(value)
+    if (
+        text == ''
+        or re.search(r'''[:#,[\]{}&*!|>'"%@`]''', text)
+        or re.search(r'^\s|\s$', text)
+        or re.match(r'^(true|false|null|yes|no|on|off|-)$', text, re.I)
+        or re.match(r'^-?\d', text)
+    ):
+        return json.dumps(text, ensure_ascii=False)
+    return text
+
 
 def slugify(text):
     """Convert text to URL-friendly slug"""
@@ -54,13 +68,11 @@ def create_til_entry(title, category, content=""):
         print(f"❌ File {filename} already exists in {category}!")
         return False
     
-    # Create TIL content
-    til_content = f"# {title}\n\n"
-    
+    til_content = f"---\ntitle: {yaml_scalar(title)}\n---\n\n"
+
     if content:
-        til_content += f"{content}\n"
+        til_content += f"{content.rstrip()}\n"
     else:
-        til_content += "<!-- Write your TIL content here -->\n\n"
         til_content += "## Summary\n\n"
         til_content += "## Details\n\n"
         til_content += "## Example\n\n"
@@ -68,7 +80,7 @@ def create_til_entry(title, category, content=""):
         til_content += "# Add your code example here\n"
         til_content += "```\n\n"
         til_content += "## References\n\n"
-        til_content += "- [Link](https://example.com)\n"
+        til_content += "- \n"
     
     # Write the file
     try:

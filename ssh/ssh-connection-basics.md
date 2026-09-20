@@ -1,4 +1,6 @@
-# SSH connection basics: password, keys, and parameters
+---
+title: "SSH connection basics: password, keys, and parameters"
+---
 
 Basic SSH syntax: `ssh [options] [user@]hostname`
 

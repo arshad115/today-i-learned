@@ -1,4 +1,6 @@
-# Fixing Detached HEAD in a Git Submodule
+---
+title: Fixing Detached HEAD in a Git Submodule
+---
 
 When working with Git submodules, you might encounter a situation where the submodule is in a detached HEAD state. This can be problematic if you need to make changes and commit them. Here’s how you can fix it:
 

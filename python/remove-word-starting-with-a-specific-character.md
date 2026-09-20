@@ -1,4 +1,6 @@
-# Remove word starting with a specific character
+---
+title: Remove word starting with a specific character
+---
 
 Take out the word if it starts with a certain letter. It can be done with regex or without. I prefer the regex one:
 
@@ -6,4 +8,3 @@ Take out the word if it starts with a certain letter. It can be done with regex 
 import re
 clean = re.sub(r'(\s)?@\w+', r'\1', '@myStupidFriend please remove the mention')
 ```
-

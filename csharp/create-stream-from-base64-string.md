@@ -1,4 +1,6 @@
-# Create Stream from a Base64 String
+---
+title: Create Stream from a Base64 String
+---
 
 Make sure your image data does not contain some header information at the beginning:
 ```csharp

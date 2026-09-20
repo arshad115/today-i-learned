@@ -1,4 +1,6 @@
-# Set intersection
+---
+title: Set intersection
+---
 
 Get common elements in two or more sets:
 

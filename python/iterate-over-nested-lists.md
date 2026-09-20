@@ -1,4 +1,6 @@
-### Iterate over nested lists
+---
+title: Iterate over nested lists
+---
 
 Python lists follow this logic when iterating: `[thing for thing in list_of_things]`
 

@@ -1,4 +1,6 @@
-# Get only unique values from a Javascript Array
+---
+title: Get only unique values from a Javascript Array
+---
 
 Following function only gives out the unique/distinct values from the array.
 

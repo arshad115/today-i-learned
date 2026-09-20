@@ -1,4 +1,6 @@
-# Check if local git files are older than remote
+---
+title: Check if local git files are older than remote
+---
 
 ## Problem
 

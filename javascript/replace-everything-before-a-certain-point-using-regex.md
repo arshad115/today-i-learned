@@ -1,4 +1,6 @@
-### Replace everything in a string before a certain point using regex
+---
+title: Replace everything in a string before a certain point using regex
+---
 
 To remove/replace anything in a string to a certain point, use the following regex:
 

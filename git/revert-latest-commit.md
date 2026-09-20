@@ -1,4 +1,6 @@
-# Revert the latest commit
+---
+title: Revert the latest commit
+---
 
 ### Oops!
 ```

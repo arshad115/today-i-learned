@@ -1,4 +1,6 @@
-# Close Dialog from typescript
+---
+title: Close Dialog from typescript
+---
 
 Use this code:
 

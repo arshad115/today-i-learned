@@ -1,4 +1,6 @@
-# Label plot lines in matplotlib
+---
+title: Label plot lines in matplotlib
+---
 
 Use `plt.legend()` to show the labels.
 
@@ -8,4 +10,3 @@ plt.plot(x_B,y_B,'r-o', label="plot A")
 plt.legend()
 plt.show()
 ```
-

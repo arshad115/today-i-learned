@@ -1,4 +1,6 @@
-# Float Left/Right with display:flex
+---
+title: "Float Left/Right with display:flex"
+---
 
 `float: left;` ro `float: right;` does not work with `display: flex;`.
 

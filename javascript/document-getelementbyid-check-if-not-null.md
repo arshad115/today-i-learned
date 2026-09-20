@@ -1,4 +1,6 @@
-# Document getElementById check if not null
+---
+title: Document getElementById check if not null
+---
 
 Check if element is not null.
 

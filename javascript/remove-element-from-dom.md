@@ -1,4 +1,6 @@
-# Remove element from DOM
+---
+title: Remove element from DOM
+---
 
 ```js
 var element = document.getElementById("veryCoolID");

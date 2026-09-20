@@ -1,4 +1,6 @@
-# View table schema using SQL
+---
+title: View table schema using SQL
+---
 
 Use this query to get the schema:
 

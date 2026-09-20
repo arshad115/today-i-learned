@@ -1,4 +1,6 @@
-### Add dynamic css style properties
+---
+title: Add dynamic css style properties
+---
 
 `variable` is a dynamic field.
 

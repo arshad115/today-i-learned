@@ -1,4 +1,6 @@
-# Reverse string
+---
+title: Reverse string
+---
 
 Can be done via many ways; I like the slicing way or the reversed method:
 
@@ -10,4 +12,3 @@ def reversed_string(s):
 ```
 
 P.S. Slicing is the fastest way to reverse a string in python.
-

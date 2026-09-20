@@ -1,4 +1,6 @@
-# Delete local branch
+---
+title: Delete local branch
+---
 
 Delete local branch feature/branch
 ```

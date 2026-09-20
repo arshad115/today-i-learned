@@ -1,4 +1,6 @@
-# Using scp for file transfers
+---
+title: Using scp for file transfers
+---
 
 `scp` (Secure Copy Protocol) transfers files over SSH. Syntax: `scp [options] source destination`
 
@@ -61,4 +63,3 @@ If hostname uses a custom SSH port, specify it with `-P`:
 ```bash
 scp -P 2222 user@hostname:/path/file.txt ./local/
 ```
-

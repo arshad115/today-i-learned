@@ -1,8 +1,9 @@
-# List installed packages on Linux
+---
+title: List installed packages on Linux
+---
 
 Use this command:
 
 ```
 apt list --installed
 ```
-

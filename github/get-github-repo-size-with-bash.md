@@ -1,4 +1,6 @@
-# Get Github Repository size with BASH
+---
+title: Get Github Repository size with BASH
+---
 
 If you want to know the Github repo size before cloning it or for some other reason; you can use the [Github REST API](https://docs.github.com/en/rest?apiVersion=2022-11-28) with [jq](https://jqlang.github.io/jq/) and [numfmt](https://formulae.brew.sh/formula/coreutils):
 
@@ -15,4 +17,3 @@ curl 'https://api.github.com/repos/git/git' | jq '.size' | numfmt --to=iec --fro
 
 
 Got the numfmt command `--from-unit=1024` [here](https://jay.gooby.org/2021/01/22/calculating-rss-size-in-mb)
-

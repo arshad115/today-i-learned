@@ -1,4 +1,6 @@
-# Executing remote commands with SSH
+---
+title: Executing remote commands with SSH
+---
 
 Run commands on a remote server without opening an interactive shell. Syntax: `ssh [options] user@hostname "command"`
 
@@ -104,4 +106,3 @@ ssh -o ConnectTimeout=5 user@hostname "sleep 10"
 # Fail if command exits with error (useful in scripts)
 ssh user@hostname "false" && echo "Success" || echo "Failed"
 ```
-

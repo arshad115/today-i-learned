@@ -1,4 +1,6 @@
-# Running NPM Scripts in Parallel or Sequentially
+---
+title: Running NPM Scripts in Parallel or Sequentially
+---
 
 When working with Node.js projects, you might need to run multiple NPM scripts either in parallel or sequentially. Here’s how you can achieve both.
 

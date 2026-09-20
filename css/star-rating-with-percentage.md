@@ -1,4 +1,6 @@
-# Star ratings with percentage
+---
+title: Star ratings with percentage
+---
 
 Made in pure css(not by me). Just copy paste.
 

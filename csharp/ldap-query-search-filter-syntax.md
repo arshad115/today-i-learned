@@ -1,4 +1,6 @@
-### LDAP query search filter syntax
+---
+title: LDAP query search filter syntax
+---
 
 LDAP (Lightweight Directory Access Protocol) query filter syntax can be found [here](https://docs.microsoft.com/en-us/windows/desktop/ADSI/search-filter-syntax)
 

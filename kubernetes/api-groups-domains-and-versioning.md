@@ -1,4 +1,6 @@
-# API Groups, Domains, and Versioning
+---
+title: "API Groups, Domains, and Versioning"
+---
 
 Understanding how Kubernetes organizes and names its APIs through domains, groups, and versioning is crucial for working with custom resources and API extensions.
 

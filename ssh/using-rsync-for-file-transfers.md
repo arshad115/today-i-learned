@@ -1,4 +1,6 @@
-# Using rsync for file transfers
+---
+title: Using rsync for file transfers
+---
 
 `rsync` synchronizes files over SSH, with smart incremental copying (only transfers changed parts). Syntax: `rsync [options] source destination`
 
@@ -61,4 +63,3 @@ rsync -avz --rsh=ssh user1@host1:/path/src/ user2@host2:/path/dest/
 | Complexity | More options, steeper learning curve | Simple, straightforward |
 
 Use **rsync** for backups and large repeated syncs. Use **scp** for quick one-off file transfers.
-

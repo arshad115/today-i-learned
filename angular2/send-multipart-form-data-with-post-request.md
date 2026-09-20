@@ -1,4 +1,6 @@
-### Send multipart form data with post request
+---
+title: Send multipart form data with post request
+---
 
 Below is the code to send a request with multipart/form-data in Angular 7.
 

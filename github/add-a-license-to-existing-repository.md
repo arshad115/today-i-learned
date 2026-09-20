@@ -1,4 +1,6 @@
-# Add a license to an exisiting Github Repository
+---
+title: Add a license to an exisiting Github Repository
+---
 
 If you forgot to add a license to a repository then you can add simply by:
 

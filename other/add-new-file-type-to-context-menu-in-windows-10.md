@@ -1,4 +1,6 @@
-# Add a new file type to context menu in Windows 10
+---
+title: Add a new file type to context menu in Windows 10
+---
 
 I wanted to add the option to create a new ` Mardown` file to the context menu in Windows 10. Its a really simple process.
 

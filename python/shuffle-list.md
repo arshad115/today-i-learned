@@ -1,4 +1,6 @@
-# Shuffle list
+---
+title: Shuffle list
+---
 
 Shuffles the original list
 
@@ -6,4 +8,3 @@ Shuffles the original list
 from random import shuffle
 shuffle(list)
 ```
-

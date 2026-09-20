@@ -1,8 +1,9 @@
-# Delete key from dictionary
+---
+title: Delete key from dictionary
+---
 
 So simple!
 
 ```python
 del d[key]
 ```
-

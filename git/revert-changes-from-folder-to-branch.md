@@ -1,4 +1,6 @@
-# Revert Changes from Folder to Branch
+---
+title: Revert Changes from Folder to Branch
+---
 
 Here are the manual commands and steps you can use in the future to revert changes in a specific folder back to the main branch version:
 

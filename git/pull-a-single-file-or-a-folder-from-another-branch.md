@@ -1,4 +1,6 @@
-# Pull A single file or a folder from another branch
+---
+title: Pull A single file or a folder from another branch
+---
 
 Sometimes you need to get a specific file or folder from another branch without switching branches or merging everything. Here are several methods to accomplish this.
 

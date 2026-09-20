@@ -1,4 +1,6 @@
-# Bind local method to Dom event listener
+---
+title: Bind local method to Dom event listener
+---
 
 Lets say you have a method called which you want to be called on some event. 
 

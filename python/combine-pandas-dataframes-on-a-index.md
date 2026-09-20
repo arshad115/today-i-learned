@@ -1,4 +1,6 @@
-# Combine or merge two pandas Dataframes using a index
+---
+title: Combine or merge two pandas Dataframes using a index
+---
 
 Reading a json file is very easy.
 

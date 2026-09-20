@@ -1,4 +1,6 @@
-# Multiple Ways to Run a Docker Container
+---
+title: Multiple Ways to Run a Docker Container
+---
 
 Docker provides several methods to run containers. Here are some common ways:
 

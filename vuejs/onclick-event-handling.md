@@ -1,4 +1,6 @@
-# OnClick Event Handling
+---
+title: OnClick Event Handling
+---
 
  Use the `v-on` directive to listen to DOM events and run some JavaScript when they’re triggered. You can also use the method name:
 

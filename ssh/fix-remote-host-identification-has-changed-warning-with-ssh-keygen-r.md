@@ -1,4 +1,6 @@
-# Fix REMOTE HOST IDENTIFICATION HAS CHANGED warning with ssh-keygen -R
+---
+title: Fix REMOTE HOST IDENTIFICATION HAS CHANGED warning with ssh-keygen -R
+---
 
 When SSH shows this warning:
 
@@ -39,4 +41,3 @@ SSH will prompt you to trust and save the new host key.
 
 - This often happens after server rebuilds, host key rotation, or DNS/IP changes.
 - Do not ignore this warning blindly for unknown hosts. Verify the fingerprint from a trusted source first.
-

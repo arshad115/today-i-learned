@@ -1,4 +1,6 @@
-# Trim strings in Python
+---
+title: Trim strings in Python
+---
 
 In Python strings can be trimmed using the following three functions:
 
@@ -18,4 +20,3 @@ str = '  abc  '
 >>> str.lstrip()
 'abc  '
 ```
-

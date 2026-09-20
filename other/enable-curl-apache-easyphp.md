@@ -1,4 +1,6 @@
-# Enable Curl in PHP.ini running on EasyPHP
+---
+title: Enable Curl in PHP.ini running on EasyPHP
+---
 
 Removing the semicolon from `;extension=php_curl.dll` in `php.ini` did not work for me on Windows with EasyPHP. The solution is to go to the `eds-binaries` folder then inside your `php` folder, copy the `libssh2.dll` to your `apache\bin` folder in `httpserver` folder of your EasyPHP installation.
 

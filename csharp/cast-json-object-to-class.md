@@ -1,4 +1,6 @@
-# Cast or deserialize a Json object to a class in C#
+---
+title: "Cast or deserialize a Json object to a class in C#"
+---
 
 Deserialize Javascript/Json objects using [JavaScriptSerializer](https://docs.microsoft.com/de-de/dotnet/api/system.web.script.serialization.javascriptserializer?view=netframework-4.7.2) in C#.
 

@@ -1,4 +1,6 @@
-### Wait N Seconds without blocking ui
+---
+title: Wait N Seconds without blocking ui
+---
 
 ```csharp
 private void WaitNSeconds(int segundos)

@@ -1,4 +1,6 @@
-# Get unique elements from a list
+---
+title: Get unique elements from a list
+---
 
 The following function is one of the many provided in the link below. This one is order preserving.
 

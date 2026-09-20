@@ -1,4 +1,6 @@
-# Replace multiple terms from a string
+---
+title: Replace multiple terms from a string
+---
 
 Replacing multiple terms in a string.
 

@@ -1,4 +1,6 @@
-# Convert list to dictionary with indexes
+---
+title: Convert list to dictionary with indexes
+---
 
 ```python
 >>> lst = ['A','B','C']

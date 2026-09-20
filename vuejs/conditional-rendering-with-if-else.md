@@ -1,4 +1,6 @@
-# Conditional rendering with if else
+---
+title: Conditional rendering with if else
+---
 
 You can use `v-if` and `v-else` directives for conditional rendering, as follows:
 

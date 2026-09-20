@@ -1,4 +1,6 @@
-# Setting up jekyll/Github Pages environment
+---
+title: Setting up jekyll/Github Pages environment
+---
 
 I assume, you have already setup the jekyll/Github pages on your local computer using git and you run the commands in the prompt. To run a jekyll site on your local computer you can follow the following steps:
 

@@ -1,4 +1,6 @@
-# Add Cache-Control headers
+---
+title: Add Cache-Control headers
+---
 
 To add headers to your static resources in Firebase hosting, add the `headers` section within `hosting` in the `firebase.json` file:
 

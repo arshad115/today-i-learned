@@ -1,4 +1,6 @@
-# Deeplinking Applinks for Facebook
+---
+title: Deeplinking Applinks for Facebook
+---
 
 To deep link content from your website, add these Applinks to you website pages. You can include the ones which are relevant for you.
 
@@ -13,4 +15,3 @@ To deep link content from your website, add these Applinks to you website pages.
 
 <meta property="al:web:url" content="http://applinks.org/documentation" />
 ```
-

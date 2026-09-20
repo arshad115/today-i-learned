@@ -1,4 +1,6 @@
-### Print object to string
+---
+title: Print object to string
+---
 
 To convert object to string whenever you print it, add the `__str__` method in your class like so: 
 

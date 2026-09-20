@@ -1,4 +1,6 @@
-### For each loop with index
+---
+title: For each loop with index
+---
 
 `photoArr` is an array of photos
 

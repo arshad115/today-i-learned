@@ -1,4 +1,6 @@
-# Delete remote branch
+---
+title: Delete remote branch
+---
 
 Delete remote branch origin/feature/branch
 ```

@@ -12,35 +12,41 @@ import re
 from pathlib import Path
 
 
+def unquote_yaml_scalar(value):
+    """Strip wrapping YAML quotes from a single-line scalar."""
+    text = value.strip()
+    if len(text) >= 2 and text[0] == text[-1] and text[0] in '"\'':
+        return text[1:-1].replace('\\"', '"').replace("\\'", "'")
+    return text
+
+
 def extract_title_from_markdown(file_path):
-    """Extract the title from a markdown file, preferring H1 headers, then filename."""
+    """Prefer YAML `title:`, then a leading H1, then the filename."""
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
-            
-        # Look for H1 header (# Title)
-        h1_match = re.search(r'^# (.+)$', content, re.MULTILINE)
+
+        frontmatter = re.match(r'^---\n(.*?)\n---(?:\n|$)', content, re.DOTALL)
+        if frontmatter:
+            title_match = re.search(r'^title:\s*(.+)$', frontmatter.group(1), re.MULTILINE)
+            if title_match:
+                return unquote_yaml_scalar(title_match.group(1))
+            body = content[len(frontmatter.group(0)):]
+        else:
+            body = content
+
+        h1_match = re.match(r'^# (.+)$', body.lstrip(), re.MULTILINE)
         if h1_match:
             return h1_match.group(1).strip()
-        
-        # Look for H2 header (## Title) as fallback
-        h2_match = re.search(r'^## (.+)$', content, re.MULTILINE)
-        if h2_match:
-            return h2_match.group(1).strip()
-            
-        # If no headers found, use filename and convert to title case
-        filename = Path(file_path).stem
-        # Convert kebab-case or snake_case to title case
-        title = filename.replace('-', ' ').replace('_', ' ')
-        title = ' '.join(word.capitalize() for word in title.split())
-        return title
-        
-    except Exception as e:
-        # Fallback to filename if there's any error reading the file
+
         filename = Path(file_path).stem
         title = filename.replace('-', ' ').replace('_', ' ')
-        title = ' '.join(word.capitalize() for word in title.split())
-        return title
+        return ' '.join(word.capitalize() for word in title.split())
+
+    except Exception:
+        filename = Path(file_path).stem
+        title = filename.replace('-', ' ').replace('_', ' ')
+        return ' '.join(word.capitalize() for word in title.split())
 
 
 def get_category_display_name(folder_name):
@@ -119,7 +125,7 @@ def scan_til_folders():
     total_count = 0
     
     # Get all directories (excluding hidden ones and specific files)
-    exclude_items = {'.git', '.github', '.gitignore', 'LICENSE', 'README.md', '_config.yml', '.DS_Store'}
+    exclude_items = {'.git', '.github', '.gitignore', 'LICENSE', 'README.md', '.DS_Store'}
     
     for item in script_dir.iterdir():
         if item.is_dir() and item.name not in exclude_items:

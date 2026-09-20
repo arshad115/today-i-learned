@@ -1,4 +1,6 @@
-# Pull changes from the master or other branch
+---
+title: Pull changes from the master or other branch
+---
 
 ### Checkout the branch on to which you want the changes.
 `git checkout branch_name`

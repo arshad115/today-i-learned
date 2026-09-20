@@ -1,4 +1,6 @@
-# Where to find Firebase cloud messaging server API key in firebase console
+---
+title: Where to find Firebase cloud messaging server API key in firebase console
+---
 
 1. Go to your [Firebase console](https://console.firebase.google.com/) and then inside your project, click the settings icon next to your project name.
 2. Click `Project Settings`

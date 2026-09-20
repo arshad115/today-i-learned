@@ -1,4 +1,6 @@
-# Add a Window Resize event listener for a component
+---
+title: Add a Window Resize event listener for a component
+---
 
 Register a window resize event listener within a component: 
 

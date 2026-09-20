@@ -1,4 +1,6 @@
-# Fresh Start: Backing Up Main Branch and Creating Clean Main
+---
+title: "Fresh Start: Backing Up Main Branch and Creating Clean Main"
+---
 
 ## Overview
 Sometimes you need to start fresh with your main branch while preserving the existing code history. This guide shows how to backup your current main branch to another branch and create a clean, empty main branch.

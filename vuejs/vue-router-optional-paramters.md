@@ -1,4 +1,6 @@
-# Optional parameters in Vue Router
+---
+title: Optional parameters in Vue Router
+---
 
 Making parameteres optional is very easy. You just have to add a `?` at the end of the paramater. Like so:
 
@@ -107,4 +109,3 @@ Here are the Route contexts of such requests, you can see the optional paramter 
   ]
 }
 ```
-

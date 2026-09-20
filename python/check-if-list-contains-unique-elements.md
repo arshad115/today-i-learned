@@ -1,4 +1,6 @@
-### Check if list contains unique elements
+---
+title: Check if list contains unique elements
+---
 
 Python sets are always unique, so we can compare the length of the original list with a list of set of the original list.
 

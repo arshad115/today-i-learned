@@ -1,4 +1,6 @@
-# Programming languages case styles
+---
+title: Programming languages case styles
+---
 
 Different languages prefer different naming conventions and different letter case styles. I knew about the CamelCase, and in my University, I did work on a small project in Lisp, I didn't know about the `lisp-cas` or the `kebab-case`. I read it on a Github comment and found out what it means. Here are the three most widely used case categories:
 

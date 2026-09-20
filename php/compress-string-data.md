@@ -1,4 +1,6 @@
-# Compress string or data
+---
+title: Compress string or data
+---
 
 There are different methods available which use different algorithms to compress and decompress. e.g `gzcompress`, `gzinflate`, `bzcompress`,...
 
@@ -13,5 +15,3 @@ echo $compressed."\n";
 echo $decompress;
 ?>
 ```
-
-

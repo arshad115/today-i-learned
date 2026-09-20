@@ -1,4 +1,6 @@
-# Convert dictionary values or keys to list
+---
+title: Convert dictionary values or keys to list
+---
 
 In Python 3, the `dict.keys()` or `dict.values()` method returns a [dictionary view object](http://docs.python.org/3/library/stdtypes.html#dictionary-view-objects), which acts as a set. Iterating over the dictionary directly also yields keys, so turning a dictionary into a list results in a list of all the keys or values.
 

@@ -1,4 +1,6 @@
-# Pass data to routerLink
+---
+title: Pass data to routerLink
+---
 
 If you want to pass data to a url using a property like so: `/user/:id/details`, then:
 

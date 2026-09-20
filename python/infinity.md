@@ -1,3 +1,7 @@
+---
+title: infinity
+---
+
 #Infinity
 Infinity in python can be represented in multiple ways. Positive infinity number is greatest, and the negative infinity number is the smallest of all numbers.
 

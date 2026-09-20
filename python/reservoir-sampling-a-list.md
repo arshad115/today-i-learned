@@ -1,4 +1,6 @@
-# Reservoir sampling a list
+---
+title: Reservoir sampling a list
+---
 
 Getting k random elements from a list of unknown size:
 

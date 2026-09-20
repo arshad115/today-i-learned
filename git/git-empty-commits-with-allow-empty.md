@@ -1,4 +1,6 @@
-# Git empty commits with --allow-empty
+---
+title: Git empty commits with --allow-empty
+---
 
 Use this when you want a commit even if there are no staged file changes:
 
@@ -29,4 +31,3 @@ git commit --allow-empty -m "Trigger CI rebuild"
 # Push it
 git push origin your-branch
 ```
-

@@ -1,6 +1,7 @@
-# Get a list of dictionary values
+---
+title: Get a list of dictionary values
+---
 
 ```python
 listVals = list(d.values())
 ```
-

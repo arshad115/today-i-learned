@@ -1,4 +1,6 @@
-# Docker Build and Push: docker build/push vs docker buildx
+---
+title: "Docker Build and Push: docker build/push vs docker buildx"
+---
 
 ## Overview
 

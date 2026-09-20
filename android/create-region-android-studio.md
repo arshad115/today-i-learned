@@ -1,4 +1,6 @@
-# Create region in Android studio
+---
+title: Create region in Android studio
+---
 
 Creating a region is easy, just start a comment with `region` and end with `endregion`:
 
@@ -7,4 +9,3 @@ Creating a region is easy, just start a comment with `region` and end with `endr
 setContentView(R.layout.layout_activity);
 //endregion
 ```
-

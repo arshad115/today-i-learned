@@ -1,4 +1,6 @@
-# Search for a table name in a database
+---
+title: Search for a table name in a database
+---
 
    ## Search for a table
     

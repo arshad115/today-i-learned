@@ -1,4 +1,6 @@
-# Circular ImageView with Picasso
+---
+title: Circular ImageView with Picasso
+---
 
 If you are using the [Picasso](http://square.github.io/picasso/) library to load images on Android and you want to show a circular image then use [Picasso Transformations](https://github.com/wasabeef/picasso-transformations) library to transform the image before loading. 
 

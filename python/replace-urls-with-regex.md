@@ -1,4 +1,6 @@
-# Replace URLs using Regex
+---
+title: Replace URLs using Regex
+---
 
 Replacing urls with regex is very easy.
 
@@ -6,5 +8,3 @@ Replacing urls with regex is very easy.
 import re
 text = re.sub('http://\S+|https://\S+', '', textWithURLs)
 ```
-
-

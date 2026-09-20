@@ -1,4 +1,6 @@
-# Python null object singleton
+---
+title: Python null object singleton
+---
 
 Python's `null` singleton is `None`
 
@@ -6,4 +8,3 @@ Python's `null` singleton is `None`
 if val is None:
     bla bla bla
 ```
-

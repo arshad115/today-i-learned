@@ -5,10 +5,24 @@ Creates a new TIL entry with minimal prompts - perfect for quick learning notes.
 Usage: python3 quick_til.py "TIL Title" category [content]
 """
 
+import json
 import os
 import sys
-from datetime import datetime
 import re
+
+def yaml_scalar(value):
+    """Quote a YAML scalar when the value would be ambiguous unquoted."""
+    text = str(value)
+    if (
+        text == ''
+        or re.search(r'''[:#,[\]{}&*!|>'"%@`]''', text)
+        or re.search(r'^\s|\s$', text)
+        or re.match(r'^(true|false|null|yes|no|on|off|-)$', text, re.I)
+        or re.match(r'^-?\d', text)
+    ):
+        return json.dumps(text, ensure_ascii=False)
+    return text
+
 
 def slugify(text):
     """Convert text to URL-friendly slug"""
@@ -38,13 +52,10 @@ def create_quick_til(title, category, content=""):
         print(f"❌ File {filename} already exists in {category}!")
         return False
     
-    # Create TIL content
-    til_content = f"# {title}\n\n"
-    
+    til_content = f"---\ntitle: {yaml_scalar(title)}\n---\n\n"
+
     if content:
-        til_content += f"{content}\n"
-    else:
-        til_content += "<!-- Add your TIL content here -->\n\n"
+        til_content += f"{content.rstrip()}\n"
     
     # Write the file
     try:

@@ -1,4 +1,6 @@
-# Disable closing the dialog on clicking outside the dialog window in Angular
+---
+title: Disable closing the dialog on clicking outside the dialog window in Angular
+---
 
 When you are opening your dialog, open it with this paramter:
 ```ts
@@ -7,4 +9,4 @@ this.dialog.open(AppDialogComponent, {
     });
 ```
 
-It will disable closing the dialog, on clicks outside the dialog. 
+It will disable closing the dialog, on clicks outside the dialog.

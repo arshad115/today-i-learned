@@ -1,4 +1,6 @@
-# Split dictionary into chunks
+---
+title: Split dictionary into chunks
+---
 
 Get smaller chunks of dictionary!
 

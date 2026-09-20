@@ -1,5 +1,8 @@
-# Check Postgres db table in Docker
+---
+title: Check Postgres db table in Docker
+---
 
+```bash
 # List running containers to find the container ID or name
 docker ps
 
@@ -17,3 +20,4 @@ psql -U postgres -d mydatabase
 
 # Query data from the 'ratings' table
 SELECT * FROM ratings;
+```

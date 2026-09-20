@@ -1,4 +1,6 @@
-# Get query parameters
+---
+title: Get query parameters
+---
 
 If you want to get the query parameters:
 

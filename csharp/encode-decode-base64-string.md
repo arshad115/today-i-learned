@@ -1,4 +1,6 @@
-# Encode/Decode Base64 string in C#
+---
+title: "Encode/Decode Base64 string in C#"
+---
 
 ### Encode:
 ```

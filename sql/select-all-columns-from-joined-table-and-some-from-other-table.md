@@ -1,4 +1,6 @@
-# Select all columns from the joined table and some from the other
+---
+title: Select all columns from the joined table and some from the other
+---
 
 This would select all the columns from the `myTable`.
 

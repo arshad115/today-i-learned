@@ -1,4 +1,6 @@
-### Select option with default value
+---
+title: Select option with default value
+---
 
 If you don't want to add an extra value to your data binded list then use this code:
 

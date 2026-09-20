@@ -1,4 +1,6 @@
-# Configure and connect Mysql Workbench with SSH connection
+---
+title: Configure and connect Mysql Workbench with SSH connection
+---
 
 Make sure, mysql is installed on your server.
 

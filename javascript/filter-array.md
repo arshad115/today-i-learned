@@ -1,4 +1,6 @@
-# Filter a Javascript Array
+---
+title: Filter a Javascript Array
+---
 
 Following code filters the array.
 

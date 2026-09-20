@@ -1,4 +1,6 @@
-# Clone without folder
+---
+title: Clone without folder
+---
 
 By adding a dot at the end, folder is not created.
 

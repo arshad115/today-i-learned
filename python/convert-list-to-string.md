@@ -1,4 +1,6 @@
-### Convert list to string
+---
+title: Convert list to string
+---
 
 Convert list `self.tags` and add spaces in between the list items.
 

@@ -1,4 +1,6 @@
-### Check if string is numeric
+---
+title: Check if string is numeric
+---
 
 Slicing is the way to go.
 

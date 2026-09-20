@@ -1,4 +1,6 @@
-# Fail2ban for SSH
+---
+title: Fail2ban for SSH
+---
 
 Fail2ban helps protect SSH by monitoring auth logs and banning IPs after repeated failed login attempts.
 
@@ -66,4 +68,3 @@ sudo fail2ban-client set sshd unbanip <IP_ADDRESS>
 - Keep your own admin/VPN IP in `ignoreip` to avoid locking yourself out.
 - Fail2ban is a layer, not a replacement: also use SSH keys and disable password login when possible.
 - Test with `maxretry` and `findtime` values that match your server's risk profile.
-

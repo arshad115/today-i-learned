@@ -1,4 +1,6 @@
-# Codeblock highlighting programming languages supported by Github
+---
+title: Codeblock highlighting programming languages supported by Github
+---
 
  Github uses [Linguist](https://github.com/github/linguist) to perform language detection and syntax highlighting. Here a list of common languages that can be used with the backtick "`" (see full list in [Linguist - languages.yml](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)).
 
@@ -4208,4 +4210,3 @@ zimpl &bull; zmpl &bull; zpl &bull;
 </table>
 
 Got the list from here: [gfm-lang-ids](https://github.com/jmm/gfm-lang-ids/wiki/GitHub-Flavored-Markdown-%28GFM%29-language-IDs)
-  

@@ -1,4 +1,6 @@
-# Take permissions of a folder using sudo on Linux
+---
+title: Take permissions of a folder using sudo on Linux
+---
 
 Replace with folder name:
 ```

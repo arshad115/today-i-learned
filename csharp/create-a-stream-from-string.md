@@ -1,4 +1,6 @@
-### Create a stream from string
+---
+title: Create a stream from string
+---
 
 Use this function:
 ```csharp

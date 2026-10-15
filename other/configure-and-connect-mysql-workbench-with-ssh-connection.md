@@ -27,4 +27,4 @@ Make sure, mysql is installed on your server.
 
    In the image below, hostname will be your server ip.
 
-![](https://dev.mysql.com/doc/workbench/en/images/wb-manage-db-connections-ssh-parameters.png)
+<img src="https://dev.mysql.com/doc/workbench/en/images/wb-manage-db-connections-ssh-parameters.png" width="800" height="536" loading="lazy" decoding="async" alt="MySQL Workbench SSH connection parameters" />

@@ -4,7 +4,7 @@ title: Using scp for file transfers
 
 `scp` (Secure Copy Protocol) transfers files over SSH. Syntax: `scp [options] source destination`
 
-**See also:** [Using rsync for file transfers](using-rsync-for-file-transfers.md) — better for large/repeated syncs.
+**See also:** [Using rsync for file transfers](/today-i-learned/ssh/using-rsync-for-file-transfers/) — better for large/repeated syncs.
 
 ## Local to remote
 

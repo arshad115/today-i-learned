@@ -7,7 +7,7 @@ title: Where to find Firebase cloud messaging server API key in firebase console
 3. Click `Cloud Messaging`
 4. Here you will find the `Server key`. Click copy.
 
-![Imgur](https://i.imgur.com/RhGKTdE.png)
+<img src="https://i.imgur.com/RhGKTdE.png" width="1558" height="469" loading="lazy" decoding="async" alt="Firebase Cloud Messaging server key in the console" />
 
 
 

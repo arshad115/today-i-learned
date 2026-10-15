@@ -4,7 +4,7 @@ title: Using rsync for file transfers
 
 `rsync` synchronizes files over SSH, with smart incremental copying (only transfers changed parts). Syntax: `rsync [options] source destination`
 
-**See also:** [Using scp for file transfers](using-scp-for-file-transfers.md) — comparison below.
+**See also:** [Using scp for file transfers](/today-i-learned/ssh/using-scp-for-file-transfers/) — comparison below.
 
 ## Local to remote
 

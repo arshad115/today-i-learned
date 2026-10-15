@@ -6,13 +6,13 @@ title: Codeblock highlighting programming languages supported by Github
 
 For example, this snippet uses the `sql` to enable SQL syntax:
 
-    ```sql
-    select * from table_name;
-    ```
+```sql
+select * from table_name;
+```
 
- Supported lanuages as of now:
- 
- # By Language
+Supported lanuages as of now:
+
+## By Language
 
 <table>
 

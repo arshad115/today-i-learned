@@ -1,5 +1,6 @@
 ---
 title: Check Postgres db table in Docker
+excerpt: Open a PostgreSQL shell inside a Docker container, list tables, inspect a schema, and query its rows.
 ---
 
 ```bash

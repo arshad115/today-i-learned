@@ -1,5 +1,6 @@
 ---
 title: Remove element from DOM
+excerpt: Remove an existing element from the DOM after checking that it exists.
 ---
 
 ```js
